@@ -10,4 +10,4 @@ Project Created and Developed By:
 -> Diego Chavez
 
 
-Movimiento Juventud ©
+Copyright © 2015 Movimiento Juventud
