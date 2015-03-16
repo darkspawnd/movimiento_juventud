@@ -1,10 +1,10 @@
     <section class="panel first"> 
         <video class="home-video" loop autoplay>
-            <source src="http://localhost:8888/movimiento_juventudassets/videos/VideoJuventud.webm" type="video/webm"/>
-            <source src="http://localhost:8888/movimiento_juventudassets/videos/VideoJuventud.mp4" type="video/mp4"/>
+            <source src="http://localhost:8888/movimiento_juventud/assets/videos/VideoJuventud.webm" type="video/webm"/>
+            <source src="http://localhost:8888/movimiento_juventud/assets/videos/VideoJuventud.mp4" type="video/mp4"/>
         </video>
         <div class="image-holder-home">
-            <img src="http://localhost:8888/movimiento_juventudassets/images/logo_w.png"/>
+            <img src="http://localhost:8888/movimiento_juventud/assets/images/logo_w.png"/>
         </div>
     </section>
     <section class="panel second"> 
@@ -38,16 +38,16 @@
             </div>
             <div class="concursos">
                 <div class="opt-concurso">
-                   <a href="#"><img src="http://localhost:8888/movimiento_juventudassets/images/arte.jpg" /></a> 
+                   <a href="#"><img src="http://localhost:8888/movimiento_juventud/assets/images/arte.jpg" /></a> 
                     <div class="cat-title"> <a href="#"> Arte y Cultura </a> </div>
                 </div>
                 <div class="opt-concurso">
-                    <a href=""><img src="http://localhost:8888/movimiento_juventudassets/images/ciencia.jpg" /></a>
+                    <a href=""><img src="http://localhost:8888/movimiento_juventud/assets/images/ciencia.jpg" /></a>
                     <div class="cat-title"> <a href="<?php echo $this->config->base_url();?>index.php/concurso/form/baile"> Ciencia y Tecnologia </a> </div>
 
                 </div>
                 <div class="opt-concurso">
-                    <a href=""><img src="http://localhost:8888/movimiento_juventudassets/images/deporte.jpg" /></a>
+                    <a href=""><img src="http://localhost:8888/movimiento_juventud/assets/images/deporte.jpg" /></a>
                     <div class="cat-title"> <a href="#"> Deportes </a> </div>
                 </div>
             </div>

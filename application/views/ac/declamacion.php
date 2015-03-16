@@ -1,9 +1,9 @@
 <!-- Formulario Certamen Creativo o Dibujo -->
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventudassets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventudassets/css/formstyle.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
 	<body>
     <div class="cover top no-padding">
-        <img class="cover" src="http://localhost:8888/movimiento_juventudassets/images/arteycultura.jpg">
+        <img class="cover" src="http://localhost:8888/movimiento_juventud/assets/images/arteycultura.jpg">
     </div>
     <div class="wrapper">
         <h1> Certamen de Declamación </h1>

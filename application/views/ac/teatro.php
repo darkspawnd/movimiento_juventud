@@ -1,5 +1,5 @@
-	<link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventudassets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventudassets/css/formstyle.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
 	<body>
     <div class="form-wrapper teatro">
 		<h1>Teatro</h1>
