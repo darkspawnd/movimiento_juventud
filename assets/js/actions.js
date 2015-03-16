@@ -72,6 +72,6 @@ function footerPos() {
 
 function playMusic() {
     /*var song = new Audio();
-    song.src = "http://localhost:8888/www.movimientojuventud.com.gt/assets/music/brother.mp3";
+    song.src = "http://localhost:8888/movimiento_juventudassets/music/brother.mp3";
     song.play();*/
 }
