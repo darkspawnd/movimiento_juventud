@@ -1,0 +1,99 @@
+body {
+    background: url("http://localhost:8888/www.movimientojuventud.com.gt/assets/images/stardust.png");
+    background-repeat:  repeat;
+    width: 100vw;
+}
+
+.form-wrapper {
+    position: relative;
+    margin: auto;
+    left: 0;
+    right: 0;
+    width: 70%;
+    max-width: 800px;
+    margin-top: -20px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 50px;
+    background: white;
+}
+
+.form-row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+footer {
+    position: relative;
+    bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    text-decoration: none;
+    color: white;
+}
+
+.wrapper {
+    position: relative;
+    margin: auto;
+    left: 0;
+    right: 0;
+    width: 70%;
+    max-width: 800px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: white;
+}
+
+.cover {
+    position: relative;
+    max-width: 800px;
+}
+
+.cover > img {
+    width: 100%;
+}
+
+.no-margin {
+    padding-top: 0;
+    padding-left: 0;
+}
+
+.top {
+    margin-top: 100px;
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    
+    h1 {
+        font-size: 2em;
+    }
+    
+    .cover {
+        width: 90%;
+    }
+    
+    .form-wrapper {
+        position: relative;
+        width: 90%;
+        padding-bottom: 30px;
+        margin-top: -20px;
+    }
+    
+    .wrapper {
+        width: 90%;
+    }
+}

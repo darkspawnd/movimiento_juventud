@@ -1,0 +1,329 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+
+* {
+	margin: auto;
+	padding: auto;
+	font-family: 'Open Sans';
+}
+
+body {
+	width: 100%;
+	overflow-x: hidden;
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	height: 50px;
+	z-index: 100;
+    background: transparent;
+}
+
+.header-bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #1F1F1F;
+    opacity: 0;
+}
+
+.header-wrapper {
+	position: fixed;
+    margin: auto;
+    left: 0;
+    right: 20px;
+    width: 100%;
+    max-width: 1200px;
+	line-height: 50px;
+    z-index: 100;
+}
+
+.header-container {
+    position: absolute;
+    right: 150px;
+    z-index: 101;
+}
+
+.logo-header {
+    position: absolute;
+    width: 150px;
+    left: 0;
+    top: 3px;
+}
+
+.logo-header > img {
+    width: 100%;
+}
+
+.inscribete {
+    position: absolute;
+    vertical-align: middle;
+    right: 20px;
+    font-weight: 700;
+    background: #1C8EFF;
+    border-radius: 5px;
+    color: white;
+    height: 40px;
+    top: 5px;
+    line-height: 40px;
+    padding-right: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+    transition: background 0.5s ease, color 0.5s ease;
+}
+
+.inscribete:hover {
+    color: #1C8EFF;
+    background: white;
+}
+
+.opt {
+	display: inline-block;
+}
+
+.opt > a {
+	text-decoration: none;
+	color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.opt > a:hover {
+    color: white !important;
+    text-decoration: none !important;
+    border-bottom: 3px solid white;
+}
+
+.home-video {
+    width: 100%;
+}
+
+.panel {
+	position: relative;
+	width: 100vw;
+}
+
+.first {background: #00F8FC; height: 100vh; overflow: hidden;}
+
+.image-holder-home {
+    position: absolute;
+    text-align: center;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 5%;
+    height: 90%;
+}
+
+.image-holder-home > img {
+    height: 100%;
+}
+
+.second {background: #00FF73; height: 30vh; min-height: 200px;}
+
+.priest-section {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+    text-align: center;
+    line-height: inherit;
+    height: 70%;
+    top: 15%;
+}
+
+.priest-section > div {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+}
+
+b {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.priest-photo {
+    position: relative;
+    width: 10%;
+    border-radius: 100%;
+    background: red;
+    min-width: 100px;
+    background: url("../images/padre.jpg");
+    background-size: cover;
+}
+
+.priest-text {
+    top: 15%;
+    position: relative;
+    text-align: left;
+    width: 40%;
+}
+
+.third {background: #FF4067; }
+
+.resena {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.titulo-resena {
+    position: relative;
+    padding: 30px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+borde {
+    border-bottom: 3px solid black;
+}
+
+.video-resena {
+    height: 270px;
+    width: 480px;
+    padding-bottom: 30px;
+}
+
+.video-resena > iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.fourth {background: #3D9899;}
+
+.categorias {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.concursos {
+    position: relative;
+    width: 100%;
+    height: 90%;
+    column-count: 3;
+    -o-column-count: 3;
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
+    -ms-column-count: 3;
+    column-gap: 5px;
+    -webkit-column-gap: 5px;
+    -ms-column-gap: 5px;
+    -moz-column-gap: 5px;
+    -o-column-gap: 5px;
+    padding-bottom: 20px;
+    text-align: center;
+    max-height: 500px;
+}
+
+.opt-concurso {
+    position: relative;
+    width: 100%;
+    height: 70%;
+    max-width: 300px;
+    left: 0;
+}
+
+.opt-concurso > a >img {
+    position: relative;
+    width: 100%;
+    cursor: pointer;
+}
+
+.cat-title {
+    margin: 5px;
+}
+
+.cat-title > a {
+    text-decoration: none;
+    color: #1F1F1F;
+    font-weight: bold;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    background: #1F1F1F;
+    color: #4D4D4D;
+    padding: 10px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px){
+    
+    header {
+        background: #1F1F1F;
+    }
+    
+    .inscribete {
+        right: 5px;
+    }
+    
+    .header-container {
+        right: 0;
+        left: 10px;
+        font-size: 12px;
+    }
+
+    .logo-header {
+        display: none;
+    }
+    
+    .home-video {
+        display: none;
+    }
+    
+    .image-holder-home {
+        height: 60%;
+        top: 20%;
+    }
+    
+    .image-holder-home > img {
+        height: 100%;
+    }
+
+    .priest-text {
+        top: 5%;
+        width: 50%;
+        font-size: 2vh;
+    }
+
+    b {
+        font-size: 13px;
+    }
+
+    .video-resena {
+        width: 80%;    
+    }
+
+    .concursos {
+        column-count: 1;
+        -o-column-count: 1;
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        -ms-column-count: 1;
+        bottom-padding: 20px;
+        text-align: center;
+        max-height: none;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+    
+}
+
+
+
+
+
+
