@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'www.movimientojuventud.com.gt';
+$config['base_url']	= 'www.movimientojuventud.com';
 
 /*
 |--------------------------------------------------------------------------
