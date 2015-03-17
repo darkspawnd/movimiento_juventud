@@ -8,6 +8,7 @@ class Iniciar extends CI_Controller {
 		$this->load->view('comun/nav');
 		$this->load->view('paginas/inicio');
 		$this->load->view('comun/footer');
+		
 	}
 
 }

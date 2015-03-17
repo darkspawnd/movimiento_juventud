@@ -3117,3 +3117,2111 @@ DEBUG - 2015-03-17 05:17:36 --> File loaded: application/views/comun/footer.php
 DEBUG - 2015-03-17 05:17:36 --> Final output sent to browser
 DEBUG - 2015-03-17 05:17:36 --> Total execution time: 1.0502
 >>>>>>> origin/master
+DEBUG - 2015-03-17 17:31:21 --> Config Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:31:21 --> URI Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Router Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:31:21 --> Output Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Security Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Input Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:31:21 --> Language Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:31:21 --> Database Driver Class Initialized
+ERROR - 2015-03-17 17:31:21 --> Severity: Warning  --> mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) /Applications/MAMP/htdocs/movimiento_juventud/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2015-03-17 17:31:21 --> Unable to connect to the database
+DEBUG - 2015-03-17 17:31:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2015-03-17 17:31:53 --> Config Class Initialized
+DEBUG - 2015-03-17 17:31:53 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:31:53 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:31:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:31:53 --> URI Class Initialized
+DEBUG - 2015-03-17 17:31:53 --> Router Class Initialized
+DEBUG - 2015-03-17 17:31:54 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:31:54 --> Output Class Initialized
+DEBUG - 2015-03-17 17:31:54 --> Security Class Initialized
+DEBUG - 2015-03-17 17:31:54 --> Input Class Initialized
+DEBUG - 2015-03-17 17:31:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:31:54 --> Language Class Initialized
+DEBUG - 2015-03-17 17:31:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:31:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:31:54 --> Model Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Config Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:31:59 --> URI Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Router Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:31:59 --> Output Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Security Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Input Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:31:59 --> Language Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:31:59 --> Model Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Config Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:32:06 --> URI Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Router Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:32:06 --> Output Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Security Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Input Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:32:06 --> Language Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:32:06 --> Model Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Config Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:32:35 --> URI Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Router Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:32:35 --> Output Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Security Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Input Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:32:35 --> Language Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:32:35 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:32:36 --> Model Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Config Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:32:38 --> URI Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Router Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:32:38 --> Output Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Security Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Input Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:32:38 --> Language Class Initialized
+DEBUG - 2015-03-17 17:32:38 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:32:39 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:32:39 --> Model Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Config Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:33:01 --> URI Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Router Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:33:01 --> Output Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Security Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Input Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:33:01 --> Language Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:33:01 --> Model Class Initialized
+DEBUG - 2015-03-17 17:34:02 --> Config Class Initialized
+DEBUG - 2015-03-17 17:34:03 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:34:03 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:34:03 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:34:03 --> URI Class Initialized
+DEBUG - 2015-03-17 17:34:03 --> Router Class Initialized
+DEBUG - 2015-03-17 17:34:03 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:34:04 --> Output Class Initialized
+DEBUG - 2015-03-17 17:34:04 --> Security Class Initialized
+DEBUG - 2015-03-17 17:34:04 --> Input Class Initialized
+DEBUG - 2015-03-17 17:34:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:34:04 --> Language Class Initialized
+DEBUG - 2015-03-17 17:34:05 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:34:06 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:34:06 --> Model Class Initialized
+DEBUG - 2015-03-17 17:34:32 --> Config Class Initialized
+DEBUG - 2015-03-17 17:34:32 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:34:32 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:34:33 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:34:33 --> URI Class Initialized
+DEBUG - 2015-03-17 17:34:33 --> Router Class Initialized
+DEBUG - 2015-03-17 17:34:33 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:34:33 --> Output Class Initialized
+DEBUG - 2015-03-17 17:34:33 --> Security Class Initialized
+DEBUG - 2015-03-17 17:34:33 --> Input Class Initialized
+DEBUG - 2015-03-17 17:34:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:34:34 --> Language Class Initialized
+DEBUG - 2015-03-17 17:34:35 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:34:35 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:34:35 --> Model Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Config Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:40:30 --> URI Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Router Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Config Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:40:30 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:40:30 --> URI Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Output Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Router Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:40:30 --> Security Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Output Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Input Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:40:30 --> Language Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Security Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Input Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:40:30 --> Language Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Config Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:40:30 --> URI Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Router Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Model Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Model Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:40:30 --> Config Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:40:30 --> Output Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> URI Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Security Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Router Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Input Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:40:30 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:40:30 --> Language Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Output Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Security Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Input Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:40:30 --> Language Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Model Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:40:30 --> Model Class Initialized
+DEBUG - 2015-03-17 17:40:48 --> Config Class Initialized
+DEBUG - 2015-03-17 17:40:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:40:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:40:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:40:49 --> URI Class Initialized
+DEBUG - 2015-03-17 17:40:49 --> Router Class Initialized
+DEBUG - 2015-03-17 17:40:49 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 17:40:49 --> Output Class Initialized
+DEBUG - 2015-03-17 17:40:49 --> Security Class Initialized
+DEBUG - 2015-03-17 17:40:49 --> Input Class Initialized
+DEBUG - 2015-03-17 17:40:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:40:49 --> Language Class Initialized
+DEBUG - 2015-03-17 17:40:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:40:50 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:40:50 --> Model Class Initialized
+DEBUG - 2015-03-17 17:48:48 --> Config Class Initialized
+DEBUG - 2015-03-17 17:48:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:48:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:48:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:48:48 --> URI Class Initialized
+DEBUG - 2015-03-17 17:48:48 --> Router Class Initialized
+ERROR - 2015-03-17 17:48:48 --> 404 Page Not Found --> concursp
+DEBUG - 2015-03-17 17:48:55 --> Config Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:48:55 --> URI Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> Router Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> Output Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> Security Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> Input Class Initialized
+DEBUG - 2015-03-17 17:48:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:48:55 --> Language Class Initialized
+DEBUG - 2015-03-17 17:48:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:48:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:48:56 --> Model Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Config Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:49:00 --> URI Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Router Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Output Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Security Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Input Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:49:00 --> Language Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:49:00 --> Model Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Config Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:49:40 --> URI Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Router Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Output Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Security Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Input Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:49:40 --> Language Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:49:40 --> Database Driver Class Initialized
+ERROR - 2015-03-17 17:49:40 --> Severity: Warning  --> mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) /Applications/MAMP/htdocs/movimiento_juventud/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2015-03-17 17:49:40 --> Unable to connect to the database
+DEBUG - 2015-03-17 17:49:40 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2015-03-17 17:50:12 --> Config Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:50:12 --> URI Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Router Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Output Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Security Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Input Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:50:12 --> Language Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:50:12 --> Database Driver Class Initialized
+ERROR - 2015-03-17 17:50:12 --> Severity: Warning  --> mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) /Applications/MAMP/htdocs/movimiento_juventud/system/database/drivers/mysqli/mysqli_driver.php 77
+ERROR - 2015-03-17 17:50:12 --> Unable to connect to the database
+DEBUG - 2015-03-17 17:50:12 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2015-03-17 17:50:16 --> Config Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> Hooks Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 17:50:16 --> URI Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> Router Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> Output Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> Security Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> Input Class Initialized
+DEBUG - 2015-03-17 17:50:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 17:50:16 --> Language Class Initialized
+DEBUG - 2015-03-17 17:50:17 --> Loader Class Initialized
+DEBUG - 2015-03-17 17:50:17 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 17:50:17 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:27 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:27 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:27 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:28 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:45 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:45 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:45 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:50 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:50 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:50 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:50 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:50 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:51 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:51 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:51 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:51 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:51 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:51 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:51 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:51 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:51 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:51 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:51 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:53 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:53 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:53 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:53 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:53 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:53 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:53 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:53 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:53 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:53 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:53 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:53 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:53 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:54 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:54 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:54 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:54 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:54 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:54 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:54 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:54 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:54 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:54 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:54 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:54 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:54 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:54 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:55 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:55 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:55 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:56 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:56 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:56 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:56 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:56 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:56 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:56 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:56 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:56 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:56 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:56 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:56 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:56 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:56 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:56 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:57 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:57 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:57 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:58 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:58 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:58 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:58 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Model Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Config Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:05:58 --> URI Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Router Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Output Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Security Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Input Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:05:58 --> Language Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:05:58 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:41 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:41 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:41 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:43 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:43 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:43 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:45 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:45 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:45 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:45 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:45 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:46 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:46 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:48 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:48 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:48 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:49 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:49 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:49 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:49 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:49 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:49 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:49 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:49 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Model Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Config Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:11:49 --> URI Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Router Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Output Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Security Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Input Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:11:49 --> Language Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:11:49 --> Model Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Config Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:22:06 --> URI Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Router Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Output Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Security Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Input Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:22:06 --> Language Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:22:06 --> Model Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Config Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:42:47 --> URI Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Router Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Output Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Security Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Input Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:42:47 --> Language Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:42:47 --> Model Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Config Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:42:52 --> URI Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Router Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:42:52 --> Output Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Security Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Input Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:42:52 --> Language Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:42:52 --> Model Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Config Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:44:21 --> URI Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Router Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:44:21 --> Output Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Security Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Input Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:44:21 --> Language Class Initialized
+DEBUG - 2015-03-17 18:44:21 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Config Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:45:42 --> URI Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Router Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:45:42 --> Output Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Security Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Input Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:45:42 --> Language Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:45:42 --> Model Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Config Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:46:16 --> URI Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Router Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:46:16 --> Output Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Security Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Input Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:46:16 --> Language Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:46:16 --> Model Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Config Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:46:18 --> URI Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Router Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:46:18 --> Output Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Security Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Input Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:46:18 --> Language Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:46:18 --> Model Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Config Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:46:20 --> URI Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Router Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:46:20 --> Output Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Security Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Input Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:46:20 --> Language Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:46:20 --> Model Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Config Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:46:22 --> URI Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Router Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:46:22 --> Output Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Security Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Input Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:46:22 --> Language Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:46:22 --> Model Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Config Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:48:25 --> URI Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Router Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:48:25 --> Output Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Security Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Input Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:48:25 --> Language Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:48:25 --> Model Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Config Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:48:44 --> URI Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Router Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:48:44 --> Output Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Security Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Input Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:48:44 --> Language Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:48:44 --> Model Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Config Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:50:02 --> URI Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Router Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:50:02 --> Output Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Security Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Input Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:50:02 --> Language Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:50:02 --> Model Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Config Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:53:49 --> URI Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Router Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:53:49 --> Output Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Security Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Input Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:53:49 --> Language Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:53:49 --> Model Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Config Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:57:01 --> URI Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Router Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:57:01 --> Output Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Security Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Input Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:57:01 --> Language Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:57:01 --> Model Class Initialized
+DEBUG - 2015-03-17 18:58:39 --> Config Class Initialized
+DEBUG - 2015-03-17 18:58:39 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:58:39 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:58:39 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:58:39 --> URI Class Initialized
+DEBUG - 2015-03-17 18:58:39 --> Router Class Initialized
+DEBUG - 2015-03-17 18:58:39 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:58:39 --> Output Class Initialized
+DEBUG - 2015-03-17 18:58:39 --> Security Class Initialized
+DEBUG - 2015-03-17 18:58:40 --> Input Class Initialized
+DEBUG - 2015-03-17 18:58:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:58:40 --> Language Class Initialized
+DEBUG - 2015-03-17 18:58:40 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:58:40 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:58:40 --> Model Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Config Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:58:43 --> URI Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Router Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:58:43 --> Output Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Security Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Input Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:58:43 --> Language Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:58:43 --> Model Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Config Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Hooks Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 18:59:40 --> URI Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Router Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 18:59:40 --> Output Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Security Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Input Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 18:59:40 --> Language Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Loader Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> Controller Class Initialized
+DEBUG - 2015-03-17 18:59:40 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 18:59:40 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 18:59:40 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 18:59:40 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 18:59:40 --> Final output sent to browser
+DEBUG - 2015-03-17 18:59:40 --> Total execution time: 0.2007
+DEBUG - 2015-03-17 19:02:23 --> Config Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:02:23 --> URI Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Router Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:02:23 --> Output Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Security Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Input Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:02:23 --> Language Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:02:23 --> Model Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Config Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:02:48 --> URI Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Router Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:02:48 --> Output Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Security Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Input Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:02:48 --> Language Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:02:48 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:02:48 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:02:48 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 19:02:48 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 19:02:50 --> Config Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:02:50 --> URI Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Router Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:02:50 --> Output Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Security Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Input Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:02:50 --> Language Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:02:50 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:02:50 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:02:50 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 19:02:50 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 19:02:56 --> Config Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:02:56 --> URI Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Router Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:02:56 --> Output Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Security Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Input Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:02:56 --> Language Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:02:56 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:02:56 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:02:56 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 19:02:56 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 19:03:12 --> Config Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:03:12 --> URI Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Router Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:03:12 --> Output Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Security Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Input Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:03:12 --> Language Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:03:12 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:03:12 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:03:12 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 19:03:12 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 19:03:12 --> Final output sent to browser
+DEBUG - 2015-03-17 19:03:12 --> Total execution time: 0.6884
+DEBUG - 2015-03-17 19:07:39 --> Config Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:07:39 --> URI Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> Router Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:07:39 --> Output Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> Security Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> Input Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:07:39 --> Language Class Initialized
+DEBUG - 2015-03-17 19:07:39 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:07:40 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:07:40 --> Model Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Config Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:07:49 --> URI Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Router Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:07:49 --> Output Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Security Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Input Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:07:49 --> Language Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:07:49 --> Model Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Config Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:08:16 --> URI Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Router Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:08:16 --> Output Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Security Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Input Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:08:16 --> Language Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Model Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Model Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:08:16 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:08:16 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:08:16 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 19:08:16 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 19:08:16 --> Final output sent to browser
+DEBUG - 2015-03-17 19:08:16 --> Total execution time: 0.1665
+DEBUG - 2015-03-17 19:08:33 --> Config Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:08:33 --> URI Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Router Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:08:33 --> Output Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Security Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Input Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:08:33 --> Language Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Model Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Model Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:08:33 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:08:33 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:08:33 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 19:08:33 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 19:08:33 --> Final output sent to browser
+DEBUG - 2015-03-17 19:08:33 --> Total execution time: 0.0448
+DEBUG - 2015-03-17 19:32:30 --> Config Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:32:30 --> URI Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Router Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> No URI present. Default controller set.
+DEBUG - 2015-03-17 19:32:30 --> Output Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Security Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Input Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:32:30 --> Language Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Model Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Model Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:32:30 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:32:31 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:32:31 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-17 19:32:31 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-17 19:32:31 --> Final output sent to browser
+DEBUG - 2015-03-17 19:32:31 --> Total execution time: 0.5631
+DEBUG - 2015-03-17 19:32:48 --> Config Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:32:48 --> URI Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Router Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Output Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Security Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Input Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:32:48 --> Language Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Model Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Model Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:32:48 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:32:48 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-17 19:32:55 --> Config Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Hooks Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-17 19:32:55 --> URI Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Router Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Output Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Security Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Input Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-17 19:32:55 --> Language Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Loader Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Model Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Model Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> Controller Class Initialized
+DEBUG - 2015-03-17 19:32:55 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-17 19:32:55 --> File loaded: application/views/comun/nav.php

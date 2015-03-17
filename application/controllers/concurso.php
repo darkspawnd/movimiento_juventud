@@ -50,6 +50,45 @@ class Concurso extends CI_Controller {
 				   'genero'=>$_POST['genero']
 				);
 
+// Obtener el id de concurso 
+				$categoria = ($_POST['categoria']== 'basicos') ? 1 : 2 ;
+				$rama = ($_POST['rama']=='caricatura') ? 1 : 2 ;
+				$subr=$_POST['subr'];
+
+				if ($rama==1) {
+					if ($categoria==1) {
+						$id_concurso=1;
+					}else{
+						$id_concurso=6;
+					}
+				}elseif ($subr=='lapiz') {
+					if ($categoria==1) {
+						$id_concurso=2;
+					}else{
+						$id_concurso=7;
+					}
+				}elseif ($subr=='carboncillo') {
+					if ($categoria==1) {
+						$id_concurso=3;
+					}else{
+						$id_concurso=8;
+					}
+				}elseif ($subr=='b/n') {
+					if ($categoria==1) {
+						$id_concurso=4;
+					}else{
+						$id_concurso=9;
+					}
+				}elseif ($subr=='color') {
+					if ($categoria==1) {
+						$id_concurso=5;
+					}else{
+						$id_concurso=10;
+					}
+				}
+
+
+
 			//regresa el id de los datos que se mandan a insertar con la misma linea de codigo
 				$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
 				$id_participante = $this->Insertar->newParticipante($data_participante);
@@ -60,7 +99,7 @@ class Concurso extends CI_Controller {
 					'id_establecimiento' => $id_establecimiento 
 					);
 				$id_asignar_establecimiento = $this->Insertar->newAsignacion_P_E($data_asignacion_p_e);
-// Aun falta declarar $id_concurso
+// se asignara al concurso
 				$data_asignacion_individual= array(
 					'id_asignar_establecimiento' => $id_asignar_establecimiento,
 					'id_concurso' => $id_concurso

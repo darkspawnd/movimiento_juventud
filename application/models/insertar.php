@@ -126,9 +126,35 @@ function newAsignacion_P_E($data)
 	}
 }
 
+function exist_asignacion_individual($id)
+{
+	$this->db->from('Asignacion_Individual');
+	$this->db->where('idAsignacion_Individual',$id);
+	$query = $this->db->get();
+
+	return ($query->num_rows()>=1);
+}
+
+
 function newAsignacion_Individual($data)
 {
-	// No esta terminado
+	$this->db->where('id_asignar_establecimiento',$data['id_asignar_establecimiento']);
+	$this->db->where('id_concurso',$data['id_concurso']);
+	$this->db->from('Asignacion_Individual');
+	$query = $this->db->get();
+
+	if ($query->num_rows()>=1) {
+		$row= $query->row();
+		$idAsignacion_Individual = $row->$idAsignacion_Individual;
+	}else{
+		$idAsignacion_Individual = '';
+	}
+	if (!$this->exists_asignacion_individual($idAsignacion_Individual)) {
+		$this->db->insert('Asignacion_Individual',$data);
+		return $this->db->insert_id();
+	}else{
+		return $idAsignacion_Individual;
+	}
 }
 
 
