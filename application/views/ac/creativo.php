@@ -51,7 +51,9 @@
             <input type="text" class="form-control" placeholder="Segundo Apellido" name="segundo_apellido"/>
         </div>
         <div class="form-row">
-            <input type="text" class="form-control" placeholder="Fecha De Nacimiento" name="fecha_nacimiento"/>
+            <input type="text" class="form-control fecha" placeholder="Fecha De Nacimiento" name="dia_fecha_nacimiento"/> /
+            <input type="text" class="form-control fecha" placeholder="Fecha De Nacimiento" name="mes_fecha_nacimiento"/> /
+            <input type="text" class="form-control fecha" placeholder="Fecha De Nacimiento" name="anio_fecha_nacimiento"/>
         </div>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Telefono/Celular Participante" name="telefono_participante"/>

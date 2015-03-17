@@ -8,7 +8,7 @@ window.onload = function () {
     $(window).resize(function () {
         video();
     });
-    
+    logoHome();
 }
 
 $(window).scroll(function () {
@@ -68,6 +68,12 @@ function footerPos() {
     if(body.innerHeight <= window.innerHeight){
         $("footer").css({});
     }
+}
+
+function logoHome() {
+    $(".logo-header").click(function () {
+        window.location = "http://localhost:8888/movimiento_juventud"
+    });
 }
 
 function playMusic() {

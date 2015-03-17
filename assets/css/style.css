@@ -49,6 +49,7 @@ header {
     width: 150px;
     left: 0;
     top: 3px;
+    cursor: pointer;
 }
 
 .logo-header > img {
