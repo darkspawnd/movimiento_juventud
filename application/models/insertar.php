@@ -5,11 +5,12 @@ class Insertar extends CI_Model {
 
 function exists_establecimiento($id)
 {
+	// Evalua si existe o no el registro con ese numero de id, regresa un valor True o False
 	$this->db->from('Establecimiento');
 	$this->db->where('idEstablecimiento',$id);
 	$query = $this->db->get();
 	
-	return ($query->num_rows()==1);
+	return ($query->num_rows()>=1);
 }
 
 
@@ -80,10 +81,8 @@ function exists_participante($id)
 // si no id null
 		$idParticipante = '';
 	}
-
-
 // Si NO existe
-if (!$this->exists_participante($idParticipante))
+	if (!$this->exists_participante($idParticipante))
 	{
 // inserta el dato y devuelve el id		
 	$this->db->insert('Participante', $data); 
@@ -97,6 +96,43 @@ if (!$this->exists_participante($idParticipante))
 		return $idParticipante;
 	}
 }
+function exists_asig_P_E($id)
+{
+	$this->db->from('Asignar_Establecimiento');
+	$this->db->where('idAsignar_Establecimiento',$id);
+	$query = $this->db->get();
+
+	return ($query->num_rows()>=1);
 }
 
+function newAsignacion_P_E($data)
+{
+	$this->db->where('id_participante',$data['id_participante']);
+	$this->db->where('id_establecimiento',$data['id_establecimiento']);
+	$this->db->from('Asignar_Establecimiento');
+	$query = $this->db->get();
+
+	if ($query->num_rows()>=1) {
+		$row= $query->row();
+		$idAsignar_Establecimiento = $row->$idAsignar_Establecimiento;
+	}else{
+		$idAsignar_Establecimiento = '';
+	}
+	if (!$this->exists_asig_P_E($idAsignar_Establecimiento)) {
+		$this->db->insert('Asignar_Establecimiento',$data);
+		return $this->db->insert_id();
+	}else{
+		return $idAsignar_Establecimiento;
+	}
+}
+
+function newAsignacion_Individual($data)
+{
+	// No esta terminado
+}
+
+
+
+
+}
 ?>
