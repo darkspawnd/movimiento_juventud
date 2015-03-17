@@ -76,6 +76,14 @@ a:active {
     margin-top: 100px;
 }
 
+.terms {
+    color: #2E96FF;
+}
+
+input + label {
+    vertical-align: middle;
+}
+
 @media screen and (min-width: 300px) and (max-width: 800px) {
     
     h1 {
