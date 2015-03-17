@@ -95,6 +95,11 @@ input + label {
     font-weight: 700;
 }
 
+.fecha {
+    width: 32%;
+    display: inline-block;
+}
+
 @media screen and (min-width: 300px) and (max-width: 800px) {
     
     h1 {
@@ -114,5 +119,10 @@ input + label {
     
     .wrapper {
         width: 90%;
+    }
+    
+    .fecha {
+        width: 29%;
+        display: inline-block;
     }
 }
