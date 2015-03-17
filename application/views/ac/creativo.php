@@ -8,7 +8,7 @@
     <div class="wrapper">
         <h1>Certamen Creativo</h1>
         <hr/>
-        <h1> Bases del Concurso </h1>
+        <h3> Bases del Concurso </h3>
         <p> a)  El concursante deberá presentarse en la fecha programada por la Comisión de Arte y Cultura con sus materiales de trabajo. </p>
         <p> b)  El formato para los concursos de Caricatura, Retrato y Pintura, será de tema libre.</p>
         <p> c)  Dado a que el tema de participación es libre, no puede atentar contra la moral y las buenas costumbres.</p>
@@ -26,7 +26,8 @@
     <form method="post" accept-charset="utf-8" action="http://localhost:8888/movimiento_juventud/index.php/concurso/creativosubmit"/>
     <?php echo validation_errors(); ?>
     <div class="form-wrapper crea">
-		<h1>Inscripción</h1>
+		<h2>Inscripción</h2>
+        <h3> Datos del establecimiento: </h3>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
         </div>
@@ -36,6 +37,7 @@
         <div class="form-row">
 		  <input type="text" class="form-control" placeholder="Teléfono Del Establecimiento"  name="telefono_establecimiento"/>
         </div>
+        <h3> Datos del participante: </h3>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Primer Nombre" name="primer_nombre"/>
         </div>
@@ -58,27 +60,31 @@
             <input type="text" class="form-control" placeholder="Email Del Participante" name="mail_participante"/>
         </div>
         <h2>Genero</h2>
-		<div class="all"><input type="radio"  name="genero" value="masculino" checked/><label> &nbsp Masculino</label> </div>
-        <div class="all"><input type="radio" name="genero" value="femenino"/><label> &nbsp Femenino</label></div>
+		<div class="all"><input id="m" type="radio"  name="genero" value="masculino" checked/><label for="m"> &nbsp Masculino</label> </div>
+        <div class="all"><input id="f" type="radio" name="genero" value="femenino"/><label for="f"> &nbsp Femenino</label></div>
 		<h2>Categoria</h2>
-		<div class="all"><input type="radio" name="categoria" value="basicos" checked/><label> &nbsp Basicos</label> </div>
-        <div class="all"><input type="radio" name="categoria"value="diversificado"/><label> &nbsp Diversificado</label></div>
+		<div class="all"><input type="radio" name="categoria" value="basicos" checked id="ba"/><label for="ba"> &nbsp Basicos</label> </div>
+        <div class="all"><input type="radio" name="categoria"value="diversificado" id="di"/><label for="di"> &nbsp Diversificado</label></div>
         <h2> Rama </h2>
-		<div class="all"><input type="radio" name="rama" value="caricatura" checked/><label> &nbsp Caricatura</label></div>
-		<div class="all"><input type="radio" name="rama" value="retrato"/><label> &nbsp Retrato</label></div>
+		<div class="all"><input type="radio" name="rama" value="caricatura" checked id="ca"/><label for="ca"> &nbsp Caricatura</label></div>
+		<div class="all"><input type="radio" name="rama" value="retrato" id="re"/><label for="re"> &nbsp Retrato</label></div>
 		<select class="form-control" id="one" name="retrato">
 			 <option id="vacio1" name="subr"> ... </option>
 		  	 <option value="lapiz">Lapiz </option>
 		 	 <option value="carboncillo" >Carboncillo </option>
 		</select>
-		<div class="all"><input type="radio" name="rama" value="pintura"/><label> &nbsp Pintura</label></div>
+		<div class="all"><input type="radio" name="rama" value="pintura" id="pin"/><label for="pin"> &nbsp Pintura</label></div>
 		<select id="two" class="form-control" style="" name="subr">
 		 	 <option id="vacio2"> ... </option>
 		  	 <option value="b/n" >Blanco y Negro </option>
 		 	 <option value="color">Color </option>
 		</select>
         <div class="form-row">
-            <input type="submit" class="form-control" />
+            <input type="checkbox" id="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> He leído y acepto los términos y condiciones </label> <a href="#">(Ver términos y condiciones)</a>
+        </div>
+        <div class="form-row">
+            <input type="button" class="form-control btn_bottom" value="Descargar ficha"/>
+            <input type="submit" class="form-control send-art btn_bottom" />
         </div>
     </form>
         <!-- De esta manera el usuario solo podra escoger una sola opcion  -->

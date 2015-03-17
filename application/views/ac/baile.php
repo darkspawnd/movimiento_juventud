@@ -17,6 +17,7 @@
         <p>h)	El uso de vehículos como material de la presentación quedan terminantemente prohibidos.</p>
         <h3>Bases específicas:</h3>
            <p> * Cada grupo representante tendrá un mínimo de cinco (5) y un máximo de veinte (20) integrantes.</p>
+        <hr />
         <p> <b>Fecha</b> - 20 de Mayo</p>
         <hr />
     </div> 

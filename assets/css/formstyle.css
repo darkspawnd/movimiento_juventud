@@ -84,6 +84,17 @@ input + label {
     vertical-align: middle;
 }
 
+.send-art {
+    background: #1F1F1F;
+    color: white;
+}
+
+.btn_bottom {
+    width: 49%;
+    display: inline-block;
+    font-weight: 700;
+}
+
 @media screen and (min-width: 300px) and (max-width: 800px) {
     
     h1 {
