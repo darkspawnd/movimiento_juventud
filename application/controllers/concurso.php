@@ -1,13 +1,15 @@
 <?php
 class Concurso extends CI_Controller {
 
-	public function form($con)
+	public function form($com,$con)
 	{
-
+		$this->load->helper(array('form', 'url'));
+		$this->load->library('form_validation');
+	
 // Se Carga la vista de dualquier concurso
 		$this->load->view('comun/header');
 		$this->load->view('comun/nav');
-		$this->load->view('ac/'.$con);
+		$this->load->view($com.'/'.$con);
 		$this->load->view('comun/footer');
 	}
 
@@ -16,12 +18,8 @@ class Concurso extends CI_Controller {
 
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
-
-		$this->form_validation->set_rules('nombre_establecimiento','nombre','required');
-		$this->form_validation->set_rules('direccion_establecimiento','direccion','required');
-		$this->form_validation->set_rules('telefono_establecimiento','telefono','required');
 	
-		if ($this->form_validation->run() == false)
+		if ($this->form_validation->run('creativo') == false)
 		{	
 	// Hubo error en la validacion
 		$this->load->view('comun/header');
