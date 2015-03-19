@@ -113,8 +113,8 @@ function newAsignacion_P_E($data)
 	$query = $this->db->get();
 
 	if ($query->num_rows()>=1) {
-		$row= $query->row();
-		$idAsignar_Establecimiento = $row->$idAsignar_Establecimiento;
+		$row = $query->row();
+		$idAsignar_Establecimiento = $row->idAsignar_Establecimiento;
 	}else{
 		$idAsignar_Establecimiento = '';
 	}
@@ -126,12 +126,11 @@ function newAsignacion_P_E($data)
 	}
 }
 
-function exist_asignacion_individual($id)
+function exists_asignacion_individual($id)
 {
 	$this->db->from('Asignacion_Individual');
 	$this->db->where('idAsignacion_Individual',$id);
 	$query = $this->db->get();
-
 	return ($query->num_rows()>=1);
 }
 
@@ -157,7 +156,63 @@ function newAsignacion_Individual($data)
 	}
 }
 
+function exists_encargado($id)
+{
+	$this->db->from('Encargado');
+	$this->db->where('idEncargado',$id);
+	$query = $this->db->get();
+	return ($query->num_rows()>=1);
+}
 
+function newEncargado($data)
+{
+	$this->db->where('nombre_encargado',$data['nombre_encargado']);
+	$this->db->where('mail_encargado',$data['mail_encargado']);
+	$this->db->where('telefono_encargado',$data['telefono_encargado']);
+	$this->db->from('Encargado');
+	$query = $this->db->get();
+	if ($query->num_rows()>=1) {
+		$row= $query->row();
+		$idEncargado = $row->idEncargado;
+	}else{
+		$idEncargado = '';
+	}
+	if (!$this->exists_encargado($idEncargado)) {
+		$this->db->insert('Encargado',$data);
+		return $this->db->insert_id();
+	}else{
+		return $idEncargado;
+	}
+}
+function exists_equipo($id)
+{
+	$this->db->from('Equipo');
+	$this->db->where('idEquipo',$id);
+	$query = $this->db->get();
+	return ($query->num_rows()>=1);
+}
+
+function newEquipo($data)
+{
+	$this->db->where('nombre_equipo',$data['nombre_equipo']);
+	$this->db->where('id_establecimiento',$data['id_establecimiento']);
+	$this->db->where('id_encargado',$data['id_encargado']);
+	$this->db->where('id_concurso',$data['id_concurso']);
+	$this->db->from('Equipo');
+	$query = $this->db->get();
+	if ($query->num_rows()>=1) {
+		$row= $query->row();
+		$idEquipo = $row->idEquipo;
+	}else{
+		$idEquipo = '';
+	}
+	if (!$this->exists_equipo($idEquipo)) {
+		$this->db->insert('Equipo',$data);
+		return $this->db->insert_id();
+	}else{
+		return $idEquipo;
+	}
+}
 
 
 }

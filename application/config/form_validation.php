@@ -1,3 +1,4 @@
+<!-- En este documento le damos las reglas a cada formulario sobre lo que es necesario en cada uno -->
 <?php  
 $config = array(
     'creativo' => array(
@@ -8,7 +9,7 @@ $config = array(
                                          ),
                                     array(
                                             'field' => 'direccion_establecimiento',
-                                            'label' => 'Direccion del establecimiento',
+                                            'label' => 'Dirección del establecimiento',
                                             'rules' => 'required'
                                          ),
                                     array(
@@ -40,11 +41,6 @@ $config = array(
                                             'label' => 'Segundo Apellido',
                                          ),
                                     array(
-                                            'field' => 'fecha_nacimiento',
-                                            'label' => 'Fecha de Nacimento',
-                                            'rules' => 'required'
-                                         ),
-                                    array(
                                             'field' => 'telefono_participante',
                                             'label' => 'Teléfono del Participante',
                                             'rules' => 'required'
@@ -60,16 +56,11 @@ $config = array(
                                             'label' => 'Genero',
                                             'rules' => 'required'
                                          ),
-                                      array(
-                                            'field' => 'categoria',
-                                            'label' => 'Categoria',
-                                            'rules' => 'required'
-                                         ),
-                                       array(
-                                            'field' => 'rama',
-                                            'label' => 'Rama',
-                                            'rules' => 'required'
-                                         )
+                                     array(
+                                        'field' => 'terminos',
+                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'rules' => 'required'
+                                        )
                                     ),
                 'coros' => array(
                                     array(
@@ -93,26 +84,31 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_grupo',
+                                            'field' => 'nombre_equipo',
                                             'label' => 'Nombre del Grupo',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_representante',
+                                            'field' => 'nombre_encargado',
                                             'label' => 'Nombre del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'telefono_representante',
+                                            'field' => 'telefono_encargado',
                                             'label' => 'Teléfono del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
                                             'field' => 'mail_represenante',
-                                            'label' => 'Correo del Representante',
+                                            'label' => 'Correo del encargado',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
-                                         )
+                                         ),
+                                    array(
+                                        'field' => 'terminos',
+                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'rules' => 'required'
+                                        )
                                     ),
                 'baile' => array(
                                     array(
@@ -136,31 +132,39 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_representante',
+                                            'field' => 'nombre_encargado',
                                             'label' => 'Nombre del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'telefono_representante',
+                                            'field' => 'telefono_encargado',
                                             'label' => 'Teléfono del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'direccion_representante',
-                                            'label' => 'Direccion del Representante',
-                                            'rules' => 'required'
-                                         ),
-                                     array(
-                                            'field' => 'categoria',
-                                            'label' => 'Categoria',
-                                            'rules' => 'required'
-                                         ),
-                                    array(
-                                            'field' => 'mail_represenante',
+                                            'field' => 'mail_encargado',
                                             'label' => 'Correo del Representante',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
-                                         )
+                                         ),
+                                    array(
+                                        'field' => 'nombre_equipo',
+                                        'label' => 'Nombre Del Grupo',
+                                        'rules' => 'required'
+                                        ),
+                                    array(
+                                        'field' => 'numero_integrantes',
+                                        'label' => 'Cantidad de Integrantes',
+                                        'rules' => 'required' ,
+                                        'rules' => 'integer',
+                                        'rules' => 'less_than[21]',
+                                        'rules' => 'greater_than[4]'
+                                        ),
+                                    array(
+                                        'field' => 'terminos',
+                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'rules' => 'required'
+                                        )
                                     ),
                 'declamacion' => array(
                                     array(
@@ -223,11 +227,16 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'mail_represenante',
+                                            'field' => 'mail_encargado',
                                             'label' => 'Correo del Representante',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
-                                         )
+                                         ),
+                                    array(
+                                        'field' => 'terminos',
+                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'rules' => 'required'
+                                        )
                                     ),
         'marimba' => array(
                                     array(
@@ -251,26 +260,31 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_grupo',
+                                            'field' => 'nombre_equipo',
                                             'label' => 'Nombre del Grupo',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_representante',
+                                            'field' => 'nombre_encargado',
                                             'label' => 'Nombre del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'telefono_representante',
+                                            'field' => 'telefono_encargado',
                                             'label' => 'Teléfono del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'mail_represenante',
+                                            'field' => 'mail_encargado',
                                             'label' => 'Correo del Representante',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
-                                         )
+                                         ),
+                                    array(
+                                        'field' => 'terminos',
+                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'rules' => 'required'
+                                        )
                                     ),
                  'interpretacion' => array(
                                     array(
@@ -294,17 +308,17 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_grupo',
+                                            'field' => 'nombre_equipo',
                                             'label' => 'Nombre del Grupo',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_representante',
+                                            'field' => 'nombre_encargado',
                                             'label' => 'Nombre del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'telefono_representante',
+                                            'field' => 'telefono_encargado',
                                             'label' => 'Teléfono del Representante',
                                             'rules' => 'required'
                                          ),
@@ -314,11 +328,16 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'mail_represenante',
+                                            'field' => 'mail_encargado',
                                             'label' => 'Correo del Representante',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
-                                         )
+                                         ),
+                                    array(
+                                        'field' => 'terminos',
+                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'rules' => 'required'
+                                        )
                                     ),
                 'teatro' => array(
                                     array(
@@ -342,12 +361,12 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_grupo',
+                                            'field' => 'nombre_equipo',
                                             'label' => 'Nombre del Grupo',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'nombre_representante',
+                                            'field' => 'nombre_encargado',
                                             'label' => 'Nombre del Representante',
                                             'rules' => 'required'
                                          ),
@@ -357,16 +376,21 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'telefono_representante',
+                                            'field' => 'telefono_encargado',
                                             'label' => 'Teléfono del Representante',
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'mail_represenante',
+                                            'field' => 'mail_encargado',
                                             'label' => 'Correo del Representante',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
-                                         )
+                                         ),
+                                    array(
+                                        'field' => 'terminos',
+                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'rules' => 'required'
+                                        )
                                     )                       
                );
 ?>

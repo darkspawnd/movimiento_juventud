@@ -62,7 +62,7 @@
 		<div class="all"><input type="radio" value="coreografico" name="categoria"/><label> &nbsp Individual</label> </div>
         <div class="all"><input type="radio" name="categoria"value="break"/><label> &nbsp Duos</label></div>
 		<div class="all"><input type="radio" name="categoria" value="salsa"/><label> &nbsp Trios</label></div>
-		<div class="all"><input type="radio" name="categoria" value="salsa"/><label> &nbsp Polifonicos</label></div>
+		<div class="all"><input type="radio" name="categoria" value="salsa"/><label> &nbsp Cuartetos Polifonicos</label></div>
         <div class="form-row">
             <input type="submit" class="form-control" />
         </div>

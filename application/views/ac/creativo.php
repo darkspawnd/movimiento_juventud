@@ -70,8 +70,8 @@
         <h2> Rama </h2>
 		<div class="all"><input type="radio" name="rama" value="caricatura" checked id="ca"/><label for="ca"> &nbsp Caricatura</label></div>
 		<div class="all"><input type="radio" name="rama" value="retrato" id="re"/><label for="re"> &nbsp Retrato</label></div>
-		<select class="form-control" id="one" name="retrato">
-			 <option id="vacio1" name="subr"> ... </option>
+		<select class="form-control" id="one" name="subr">
+			 <option id="vacio1" > ... </option>
 		  	 <option value="lapiz">Lapiz </option>
 		 	 <option value="carboncillo" >Carboncillo </option>
 		</select>
@@ -82,7 +82,7 @@
 		 	 <option value="color">Color </option>
 		</select>
         <div class="form-row">
-            <input type="checkbox" id="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> He leído y acepto los términos y condiciones </label> <a href="#">(Ver términos y condiciones)</a>
+            <input type="checkbox" id="terminos" name="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> He leído y acepto los términos y condiciones </label> <a href="#">(Ver términos y condiciones)</a>
         </div>
         <div class="form-row">
             <input type="button" class="form-control btn_bottom" value="Descargar ficha"/>

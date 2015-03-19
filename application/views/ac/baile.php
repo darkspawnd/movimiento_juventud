@@ -21,6 +21,8 @@
         <p> <b>Fecha</b> - 20 de Mayo</p>
         <hr />
     </div> 
+    <form method="post" accept-charset="utf-8" action="http://localhost:8888/movimiento_juventud/index.php/concurso/bailesubmit"/>
+    <?php echo validation_errors(); ?>
     <div class="form-wrapper">
 		<h2>Inscripción</h2>
         <h3> Datos del establecimiento: </h3>
@@ -28,30 +30,34 @@
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
         </div>
 	    <div class="form-row">
-		  <input type="text"class="form-control" placeholder="Direecion del Establecimiento" name="direccion_establecimiento"/>
+		  <input type="text"class="form-control" placeholder="Dirección del Establecimiento" name="direccion_establecimiento"/>
         </div>  
         <div class="form-row">
-		  <input type="text" class="form-control" placeholder="Telefono"  name="telefono_establecimiento"/>
+		  <input type="text" class="form-control" placeholder="Teléfono Del Establecimiento"  name="telefono_establecimiento"/>
         </div>
-        <h3>Datos del participante:</h3>
+        <h3>Datos del Representante:</h3>
         <div class="form-row">
-            <input type="text" class="form-control" placeholder="Nombre Del Representante" name="nombre_representante"/>
-        </div>
-        <div class="form-row">
-            <input type="text" class="form-control" placeholder="Direccion" name="direccion_representante"/>
+            <input type="text" class="form-control" placeholder="Nombre Del Representante" name="nombre_encargado"/>
         </div>
         <div class="form-row">
-            <input type="text" class="form-control" placeholder="Telefono/Celular" name="telefono_representante"/>
+            <input type="text" class="form-control" placeholder="Teléfono/Celular Representante" name="telefono_encargado"/>
         </div>
         <div class="form-row">
-            <input type="text" class="form-control" placeholder="Email" name="mail_representante"/>
+            <input type="text" class="form-control" placeholder="Email del Representante" name="mail_encargado"/>
+        </div>
+        <h3>Datos del Grupo:</h3>
+        <div class="form-row">
+            <input type="text" class="form-control" placeholder="Nombre Del Grupo" name="nombre_equipo"/>
+        </div>
+        <div class="form-row">
+            <input type="text" class="form-control" placeholder="Cantidad de Integrantes" name="numero_integrantes"/>
         </div>
 		<h3>Ramas</h3>
-		<div class="all"><input type="radio" value="coreografico" id="r1" name="categoria"/><label for="r1"> &nbsp Baile Coreografico</label> </div>
-        <div class="all"><input type="radio" name="categoria" id="r2" value="break"/><label for="r2"> &nbsp Break Dance</label></div>
-		<div class="all"><input type="radio" name="categoria" id="r3" value="salsa"/><label for="r3"> &nbsp Salsa</label></div>
+		<div class="all"><input type="radio" name="id_concurso"  id="r1" value="11" checked /><label for="r1"> &nbsp Baile Coreografico</label> </div>
+        <div class="all"><input type="radio" name="id_concurso" id="r2" value="12"/><label for="r2"> &nbsp Break Dance</label></div>
+		<div class="all"><input type="radio" name="id_concurso" id="r3" value="13"/><label for="r3"> &nbsp Salsa</label></div>
         <div class="form-row">
-            <input type="checkbox" id="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> He leído y acepto los términos y condiciones </label> <a href="#">(Ver términos y condiciones)</a>
+            <input type="checkbox" id="terminos" name="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> He leído y acepto los términos y condiciones </label> <a href="#">(Ver términos y condiciones)</a>
         </div>
         <div class="form-row">
             <input type="submit" class="form-control" value="Enviar Inscripción"/>
