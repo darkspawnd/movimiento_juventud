@@ -100,6 +100,53 @@ input + label {
     display: inline-block;
 }
 
+.contest-wrapper {
+    position: relative;
+    margin-top: 150px;
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 50px;
+}
+
+.contest-wrapper > .container {
+    position: relative;
+    width: 100%;
+    margin-top: -85px;
+    column-count: 3;
+    -webkit-column-count: 3;
+    -moz-column-count: 5;
+    -o-column-count: 5;
+    -ms-column-count: 5;
+    column-gap: 5px;
+    -webkit-column-gap: 5px;
+    -o-column-gap: 5px;
+    -moz-column-gap: 5px;
+    -ms-column-gap: 5px;
+}
+
+.contest-option {
+    position: relative;
+    width: 100%;
+    margin-top: 5px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.contest-option > img {
+    width: 100%;
+}
+
+.contest-description {
+    position: absolute;
+    z-index: 2;
+    top: 0%;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    line-height: 250px;
+}
+
 @media screen and (min-width: 300px) and (max-width: 800px) {
     
     h1 {

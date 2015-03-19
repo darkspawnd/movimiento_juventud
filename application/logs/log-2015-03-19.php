@@ -1754,3 +1754,1716 @@ DEBUG - 2015-03-19 04:30:21 --> File loaded: application/views/comun/nav.php
 DEBUG - 2015-03-19 04:30:21 --> File loaded: application/views/comun/footer.php
 DEBUG - 2015-03-19 04:30:21 --> Final output sent to browser
 DEBUG - 2015-03-19 04:30:21 --> Total execution time: 0.1697
+DEBUG - 2015-03-19 15:39:43 --> Config Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:39:43 --> URI Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Router Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Output Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Security Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Input Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:39:43 --> Language Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Model Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Model Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> Controller Class Initialized
+ERROR - 2015-03-19 15:39:43 --> Severity: Warning  --> Missing argument 2 for Concurso::form() /Applications/MAMP/htdocs/movimiento_juventud/application/controllers/concurso.php 4
+DEBUG - 2015-03-19 15:39:43 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 15:39:43 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 15:39:43 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 15:39:43 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:39:43 --> File loaded: application/views/comun/nav.php
+ERROR - 2015-03-19 15:39:43 --> Severity: Notice  --> Undefined variable: con /Applications/MAMP/htdocs/movimiento_juventud/application/controllers/concurso.php 12
+ERROR - 2015-03-19 15:39:43 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/system/core/Exceptions.php:186) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 2015-03-19 15:40:05 --> Config Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:40:05 --> URI Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Router Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Output Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Security Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Input Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:40:05 --> Language Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Model Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Model Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 15:40:05 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 15:40:05 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 15:40:05 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:40:05 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:40:05 --> File loaded: application/views/ac/creativo.php
+DEBUG - 2015-03-19 15:40:05 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:40:05 --> Final output sent to browser
+DEBUG - 2015-03-19 15:40:05 --> Total execution time: 0.1093
+DEBUG - 2015-03-19 15:40:52 --> Config Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:40:52 --> URI Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Router Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Output Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Security Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Input Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:40:52 --> Language Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Model Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Model Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 15:40:52 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 15:40:52 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 15:40:52 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:40:53 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:40:53 --> File loaded: application/views/ac/interpretacion.php
+DEBUG - 2015-03-19 15:40:53 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:40:53 --> Final output sent to browser
+DEBUG - 2015-03-19 15:40:53 --> Total execution time: 1.1817
+DEBUG - 2015-03-19 15:41:17 --> Config Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:41:17 --> URI Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Router Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Output Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Security Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Input Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:41:17 --> Language Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Model Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Model Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 15:41:17 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 15:41:17 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 15:41:17 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:41:17 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:41:17 --> File loaded: application/views/ac/creativo.php
+DEBUG - 2015-03-19 15:41:17 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:41:17 --> Final output sent to browser
+DEBUG - 2015-03-19 15:41:17 --> Total execution time: 0.1274
+DEBUG - 2015-03-19 15:42:51 --> Config Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:42:51 --> URI Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Router Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> No URI present. Default controller set.
+DEBUG - 2015-03-19 15:42:51 --> Output Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Security Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Input Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:42:51 --> Language Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Model Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Model Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:42:51 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:42:51 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:42:51 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-19 15:42:51 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:42:51 --> Final output sent to browser
+DEBUG - 2015-03-19 15:42:51 --> Total execution time: 0.1855
+DEBUG - 2015-03-19 15:43:05 --> Config Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:43:05 --> URI Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Router Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> No URI present. Default controller set.
+DEBUG - 2015-03-19 15:43:05 --> Output Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Security Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Input Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:43:05 --> Language Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Model Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Model Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:43:05 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:43:05 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:43:05 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-19 15:43:06 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:43:06 --> Final output sent to browser
+DEBUG - 2015-03-19 15:43:06 --> Total execution time: 0.2932
+DEBUG - 2015-03-19 15:44:20 --> Config Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:44:20 --> URI Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Router Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> No URI present. Default controller set.
+DEBUG - 2015-03-19 15:44:20 --> Output Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Security Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Input Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:44:20 --> Language Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Model Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Model Class Initialized
+DEBUG - 2015-03-19 15:44:20 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:44:21 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:44:21 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:44:21 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-19 15:44:21 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:44:21 --> Final output sent to browser
+DEBUG - 2015-03-19 15:44:21 --> Total execution time: 0.3930
+DEBUG - 2015-03-19 15:44:44 --> Config Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:44:44 --> URI Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Router Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> No URI present. Default controller set.
+DEBUG - 2015-03-19 15:44:44 --> Output Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Security Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Input Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:44:44 --> Language Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Model Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Model Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:44:44 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:44:44 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:44:44 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-19 15:44:44 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:44:44 --> Final output sent to browser
+DEBUG - 2015-03-19 15:44:44 --> Total execution time: 0.1756
+DEBUG - 2015-03-19 15:44:50 --> Config Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:44:50 --> URI Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Router Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> No URI present. Default controller set.
+DEBUG - 2015-03-19 15:44:50 --> Output Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Security Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Input Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:44:50 --> Language Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Model Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Model Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:44:50 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:44:50 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:44:50 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 2015-03-19 15:44:50 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:44:50 --> Final output sent to browser
+DEBUG - 2015-03-19 15:44:50 --> Total execution time: 0.0420
+DEBUG - 2015-03-19 15:46:45 --> Config Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> Hooks Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 15:46:45 --> URI Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> Router Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> Output Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> Security Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> Input Class Initialized
+DEBUG - 2015-03-19 15:46:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 15:46:45 --> Language Class Initialized
+DEBUG - 2015-03-19 15:46:46 --> Loader Class Initialized
+DEBUG - 2015-03-19 15:46:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 15:46:46 --> Model Class Initialized
+DEBUG - 2015-03-19 15:46:46 --> Model Class Initialized
+DEBUG - 2015-03-19 15:46:46 --> Controller Class Initialized
+DEBUG - 2015-03-19 15:46:46 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 15:46:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 15:46:46 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 15:46:46 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 15:46:46 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 15:46:46 --> File loaded: application/views/ac/baile.php
+DEBUG - 2015-03-19 15:46:46 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 15:46:46 --> Final output sent to browser
+DEBUG - 2015-03-19 15:46:46 --> Total execution time: 0.5595
+DEBUG - 2015-03-19 16:10:12 --> Config Class Initialized
+DEBUG - 2015-03-19 16:10:12 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:10:12 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:10:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:10:12 --> URI Class Initialized
+DEBUG - 2015-03-19 16:10:12 --> Router Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Output Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Security Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Input Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:10:13 --> Language Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Model Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Model Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> Controller Class Initialized
+ERROR - 2015-03-19 16:10:13 --> Severity: Warning  --> Missing argument 2 for Concurso::form() /Applications/MAMP/htdocs/movimiento_juventud/application/controllers/concurso.php 4
+DEBUG - 2015-03-19 16:10:13 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:10:13 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:10:13 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:10:13 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:10:13 --> File loaded: application/views/comun/nav.php
+ERROR - 2015-03-19 16:10:13 --> Severity: Notice  --> Undefined variable: con /Applications/MAMP/htdocs/movimiento_juventud/application/controllers/concurso.php 12
+ERROR - 2015-03-19 16:10:13 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/system/core/Exceptions.php:186) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 2015-03-19 16:10:22 --> Config Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:10:22 --> URI Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Router Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Output Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Security Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Input Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:10:22 --> Language Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Model Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Model Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:10:22 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:10:22 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:10:22 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:10:22 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:10:22 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:10:22 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:10:22 --> Final output sent to browser
+DEBUG - 2015-03-19 16:10:22 --> Total execution time: 0.4685
+DEBUG - 2015-03-19 16:12:01 --> Config Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:12:01 --> URI Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Router Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Output Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Security Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Input Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:12:01 --> Language Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Model Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Model Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:12:01 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:12:01 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:12:01 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:12:01 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:12:01 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:12:01 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:12:01 --> Final output sent to browser
+DEBUG - 2015-03-19 16:12:01 --> Total execution time: 0.0889
+DEBUG - 2015-03-19 16:12:25 --> Config Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:12:25 --> URI Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Router Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Output Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Security Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Input Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:12:25 --> Language Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Model Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Model Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:12:25 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:12:25 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:12:25 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:12:25 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:12:25 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:12:25 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:12:25 --> Final output sent to browser
+DEBUG - 2015-03-19 16:12:25 --> Total execution time: 0.0557
+DEBUG - 2015-03-19 16:13:07 --> Config Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:13:07 --> URI Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Router Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Output Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Security Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Input Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:13:07 --> Language Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Model Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Model Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:13:07 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:13:07 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:13:07 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:13:07 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:13:07 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:13:07 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:13:07 --> Final output sent to browser
+DEBUG - 2015-03-19 16:13:07 --> Total execution time: 0.0847
+DEBUG - 2015-03-19 16:13:46 --> Config Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:13:46 --> URI Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Router Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Output Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Security Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Input Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:13:46 --> Language Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Model Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Model Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:13:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:13:46 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:13:46 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:13:46 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:13:46 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:13:46 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:13:46 --> Final output sent to browser
+DEBUG - 2015-03-19 16:13:46 --> Total execution time: 0.0346
+DEBUG - 2015-03-19 16:13:52 --> Config Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:13:52 --> URI Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Router Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Output Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Security Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Input Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:13:52 --> Language Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Model Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Model Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:13:52 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:13:52 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:13:52 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:13:52 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:13:52 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:13:52 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:13:52 --> Final output sent to browser
+DEBUG - 2015-03-19 16:13:52 --> Total execution time: 0.0331
+DEBUG - 2015-03-19 16:14:11 --> Config Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:14:11 --> URI Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Router Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Output Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Security Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Input Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:14:11 --> Language Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Model Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Model Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:14:11 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:14:11 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:14:11 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:14:11 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:14:11 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:14:11 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:14:11 --> Final output sent to browser
+DEBUG - 2015-03-19 16:14:11 --> Total execution time: 0.0670
+DEBUG - 2015-03-19 16:15:44 --> Config Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:15:45 --> URI Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Router Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Output Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Security Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Input Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:15:45 --> Language Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Model Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Model Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:15:45 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:15:45 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:15:45 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:15:45 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:15:45 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:15:45 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:15:45 --> Final output sent to browser
+DEBUG - 2015-03-19 16:15:45 --> Total execution time: 0.4933
+DEBUG - 2015-03-19 16:16:00 --> Config Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:16:00 --> URI Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Router Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Output Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Security Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Input Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:16:00 --> Language Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:16:00 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:16:00 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:16:00 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:16:00 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:16:00 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:16:00 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:16:00 --> Final output sent to browser
+DEBUG - 2015-03-19 16:16:00 --> Total execution time: 0.0350
+DEBUG - 2015-03-19 16:16:21 --> Config Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:16:21 --> URI Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Router Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Output Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Security Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Input Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:16:21 --> Language Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:16:21 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:16:21 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:16:21 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:16:21 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:16:21 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:16:21 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:16:21 --> Final output sent to browser
+DEBUG - 2015-03-19 16:16:21 --> Total execution time: 0.0442
+DEBUG - 2015-03-19 16:16:25 --> Config Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:16:25 --> URI Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Router Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Output Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Security Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Input Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:16:25 --> Language Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:16:25 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:16:25 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:16:25 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:16:25 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:16:25 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:16:25 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:16:25 --> Final output sent to browser
+DEBUG - 2015-03-19 16:16:25 --> Total execution time: 0.0391
+DEBUG - 2015-03-19 16:16:44 --> Config Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:16:44 --> URI Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Router Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Output Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Security Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Input Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:16:44 --> Language Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:16:44 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:16:44 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:16:44 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:16:44 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:16:44 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:16:44 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:16:44 --> Final output sent to browser
+DEBUG - 2015-03-19 16:16:44 --> Total execution time: 0.0366
+DEBUG - 2015-03-19 16:16:59 --> Config Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:16:59 --> URI Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Router Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Output Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Security Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Input Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:16:59 --> Language Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Model Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:16:59 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:16:59 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:16:59 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:16:59 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:16:59 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:16:59 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:16:59 --> Final output sent to browser
+DEBUG - 2015-03-19 16:16:59 --> Total execution time: 0.0384
+DEBUG - 2015-03-19 16:17:12 --> Config Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:17:12 --> URI Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Router Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Output Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Security Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Input Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:17:12 --> Language Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Model Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Model Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:17:12 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:17:12 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:17:12 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:17:12 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:17:12 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:17:12 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:17:12 --> Final output sent to browser
+DEBUG - 2015-03-19 16:17:12 --> Total execution time: 0.0632
+DEBUG - 2015-03-19 16:17:16 --> Config Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:17:16 --> URI Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Router Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Output Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Security Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Input Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:17:16 --> Language Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Model Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Model Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:17:16 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:17:16 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:17:16 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:17:16 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:17:16 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:17:16 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:17:16 --> Final output sent to browser
+DEBUG - 2015-03-19 16:17:16 --> Total execution time: 0.0364
+DEBUG - 2015-03-19 16:17:35 --> Config Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:17:35 --> URI Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Router Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Output Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Security Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Input Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:17:35 --> Language Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Model Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Model Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:17:35 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:17:35 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:17:35 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:17:35 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:17:35 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:17:35 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:17:35 --> Final output sent to browser
+DEBUG - 2015-03-19 16:17:35 --> Total execution time: 0.0400
+DEBUG - 2015-03-19 16:18:00 --> Config Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:18:00 --> URI Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Router Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Output Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Security Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Input Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:18:00 --> Language Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Model Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Model Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:18:00 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:18:00 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:18:00 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:18:00 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:18:00 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:18:00 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:18:00 --> Final output sent to browser
+DEBUG - 2015-03-19 16:18:00 --> Total execution time: 0.0380
+DEBUG - 2015-03-19 16:18:28 --> Config Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:18:28 --> URI Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Router Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Output Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Security Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Input Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:18:28 --> Language Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Model Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Model Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:18:28 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:18:28 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:18:28 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:18:28 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:18:28 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:18:28 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:18:28 --> Final output sent to browser
+DEBUG - 2015-03-19 16:18:28 --> Total execution time: 0.0490
+DEBUG - 2015-03-19 16:18:43 --> Config Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:18:43 --> URI Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Router Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Output Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Security Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Input Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:18:43 --> Language Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Model Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Model Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:18:43 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:18:43 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:18:43 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:18:43 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:18:43 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:18:43 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:18:43 --> Final output sent to browser
+DEBUG - 2015-03-19 16:18:43 --> Total execution time: 0.0358
+DEBUG - 2015-03-19 16:19:03 --> Config Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:19:03 --> URI Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Router Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Output Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Security Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Input Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:19:03 --> Language Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:19:03 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:19:03 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:19:03 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:19:03 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:19:03 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:19:03 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:19:03 --> Final output sent to browser
+DEBUG - 2015-03-19 16:19:03 --> Total execution time: 0.1981
+DEBUG - 2015-03-19 16:19:15 --> Config Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:19:15 --> URI Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Router Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Output Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Security Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Input Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:19:15 --> Language Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:19:15 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:19:15 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:19:15 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:19:15 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:19:15 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:19:15 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:19:15 --> Final output sent to browser
+DEBUG - 2015-03-19 16:19:15 --> Total execution time: 0.0481
+DEBUG - 2015-03-19 16:19:21 --> Config Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:19:21 --> URI Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Router Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Output Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Security Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Input Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:19:21 --> Language Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:19:21 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:19:21 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:19:21 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:19:21 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:19:21 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:19:21 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:19:21 --> Final output sent to browser
+DEBUG - 2015-03-19 16:19:21 --> Total execution time: 0.0382
+DEBUG - 2015-03-19 16:19:32 --> Config Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:19:32 --> URI Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Router Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Output Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Security Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Input Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:19:32 --> Language Class Initialized
+DEBUG - 2015-03-19 16:19:32 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:19:33 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:19:33 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:33 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:33 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:19:33 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:19:33 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:19:33 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:19:33 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:19:33 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:19:33 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:19:33 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:19:33 --> Final output sent to browser
+DEBUG - 2015-03-19 16:19:33 --> Total execution time: 0.0401
+DEBUG - 2015-03-19 16:19:50 --> Config Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:19:50 --> URI Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Router Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Output Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Security Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Input Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:19:50 --> Language Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Model Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:19:50 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:19:50 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:19:50 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:19:50 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:19:50 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:19:50 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:19:50 --> Final output sent to browser
+DEBUG - 2015-03-19 16:19:50 --> Total execution time: 0.0387
+DEBUG - 2015-03-19 16:26:04 --> Config Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:26:04 --> URI Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Router Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Output Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Security Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Input Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:26:04 --> Language Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Model Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Model Class Initialized
+DEBUG - 2015-03-19 16:26:04 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:26:05 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:26:05 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:26:05 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:26:05 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:26:05 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:26:05 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:26:05 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:26:05 --> Final output sent to browser
+DEBUG - 2015-03-19 16:26:05 --> Total execution time: 1.0681
+DEBUG - 2015-03-19 16:26:46 --> Config Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:26:46 --> URI Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Router Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Output Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Security Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Input Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:26:46 --> Language Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Model Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Model Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:26:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:26:46 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:26:46 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:26:46 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:26:46 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:26:46 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:26:46 --> Final output sent to browser
+DEBUG - 2015-03-19 16:26:46 --> Total execution time: 0.0879
+DEBUG - 2015-03-19 16:26:55 --> Config Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:26:55 --> URI Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Router Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Output Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Security Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Input Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:26:55 --> Language Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Model Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Model Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:26:55 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:26:55 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:26:55 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:26:55 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:26:55 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:26:55 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:26:55 --> Final output sent to browser
+DEBUG - 2015-03-19 16:26:55 --> Total execution time: 0.0660
+DEBUG - 2015-03-19 16:27:09 --> Config Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:27:09 --> URI Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Router Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Output Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Security Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Input Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:27:09 --> Language Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:27:09 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:27:09 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:27:09 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:27:09 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:27:09 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:27:09 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:27:09 --> Final output sent to browser
+DEBUG - 2015-03-19 16:27:09 --> Total execution time: 0.2977
+DEBUG - 2015-03-19 16:27:19 --> Config Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:27:19 --> URI Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Router Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Output Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Security Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Input Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:27:19 --> Language Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:27:19 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:27:19 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:27:19 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:27:19 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:27:19 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:27:19 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:27:19 --> Final output sent to browser
+DEBUG - 2015-03-19 16:27:19 --> Total execution time: 0.0437
+DEBUG - 2015-03-19 16:27:23 --> Config Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:27:23 --> URI Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Router Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Output Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Security Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Input Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:27:23 --> Language Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:27:23 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:27:23 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:27:23 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:27:23 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:27:23 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:27:23 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:27:23 --> Final output sent to browser
+DEBUG - 2015-03-19 16:27:23 --> Total execution time: 0.0391
+DEBUG - 2015-03-19 16:27:34 --> Config Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:27:34 --> URI Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Router Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Output Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Security Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Input Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:27:34 --> Language Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:27:34 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:27:34 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:27:34 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:27:34 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:27:34 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:27:34 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:27:34 --> Final output sent to browser
+DEBUG - 2015-03-19 16:27:34 --> Total execution time: 0.0451
+DEBUG - 2015-03-19 16:27:41 --> Config Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:27:41 --> URI Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Router Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Output Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Security Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Input Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:27:41 --> Language Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:27:41 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:27:41 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:27:41 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:27:41 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:27:41 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:27:41 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:27:41 --> Final output sent to browser
+DEBUG - 2015-03-19 16:27:41 --> Total execution time: 0.0352
+DEBUG - 2015-03-19 16:27:52 --> Config Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:27:52 --> URI Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Router Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Output Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Security Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Input Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:27:52 --> Language Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:27:52 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:27:52 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:27:52 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:27:52 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:27:52 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:27:52 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:27:52 --> Final output sent to browser
+DEBUG - 2015-03-19 16:27:52 --> Total execution time: 0.0354
+DEBUG - 2015-03-19 16:27:58 --> Config Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:27:58 --> URI Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Router Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Output Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Security Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Input Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:27:58 --> Language Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Model Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:27:58 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:27:58 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:27:58 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:27:58 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:27:58 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:27:58 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:27:58 --> Final output sent to browser
+DEBUG - 2015-03-19 16:27:58 --> Total execution time: 0.0877
+DEBUG - 2015-03-19 16:29:39 --> Config Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:29:39 --> URI Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Router Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Output Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Security Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Input Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:29:39 --> Language Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Model Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Model Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:29:39 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:29:39 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:29:39 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:29:39 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:29:39 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:29:39 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:29:39 --> Final output sent to browser
+DEBUG - 2015-03-19 16:29:39 --> Total execution time: 0.0345
+DEBUG - 2015-03-19 16:30:01 --> Config Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:30:01 --> URI Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Router Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Output Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Security Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Input Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:30:01 --> Language Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:30:01 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:30:01 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:30:01 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:30:01 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:30:01 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:30:01 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:30:01 --> Final output sent to browser
+DEBUG - 2015-03-19 16:30:01 --> Total execution time: 0.0507
+DEBUG - 2015-03-19 16:30:17 --> Config Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:30:17 --> URI Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Router Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Output Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Security Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Input Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:30:17 --> Language Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:30:17 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:30:17 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:30:17 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:30:17 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:30:17 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:30:17 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:30:17 --> Final output sent to browser
+DEBUG - 2015-03-19 16:30:17 --> Total execution time: 0.0410
+DEBUG - 2015-03-19 16:30:26 --> Config Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:30:26 --> URI Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Router Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Output Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Security Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Input Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:30:26 --> Language Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:30:26 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:30:26 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:30:26 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:30:26 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:30:26 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:30:26 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:30:26 --> Final output sent to browser
+DEBUG - 2015-03-19 16:30:26 --> Total execution time: 0.0567
+DEBUG - 2015-03-19 16:30:38 --> Config Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:30:38 --> URI Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Router Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Output Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Security Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Input Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:30:38 --> Language Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:30:38 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:30:38 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:30:38 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:30:38 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:30:38 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:30:38 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:30:38 --> Final output sent to browser
+DEBUG - 2015-03-19 16:30:38 --> Total execution time: 0.0599
+DEBUG - 2015-03-19 16:30:46 --> Config Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Hooks Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 16:30:46 --> URI Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Router Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Output Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Security Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Input Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 16:30:46 --> Language Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Loader Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Model Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Controller Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 16:30:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 16:30:46 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 16:30:46 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 16:30:46 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 16:30:46 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 16:30:46 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 16:30:46 --> Final output sent to browser
+DEBUG - 2015-03-19 16:30:46 --> Total execution time: 0.0347
+DEBUG - 2015-03-19 17:00:05 --> Config Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:00:05 --> URI Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Router Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Output Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Security Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Input Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:00:05 --> Language Class Initialized
+DEBUG - 2015-03-19 17:00:05 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:00:06 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:00:06 --> Model Class Initialized
+DEBUG - 2015-03-19 17:00:06 --> Model Class Initialized
+DEBUG - 2015-03-19 17:00:06 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:00:06 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:00:06 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:00:06 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:00:06 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:00:06 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:00:06 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:00:06 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:00:06 --> Final output sent to browser
+DEBUG - 2015-03-19 17:00:06 --> Total execution time: 1.4369
+DEBUG - 2015-03-19 17:00:43 --> Config Class Initialized
+DEBUG - 2015-03-19 17:00:43 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:00:43 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:00:43 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:00:43 --> URI Class Initialized
+DEBUG - 2015-03-19 17:00:43 --> Router Class Initialized
+DEBUG - 2015-03-19 17:00:43 --> Output Class Initialized
+DEBUG - 2015-03-19 17:00:43 --> Security Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Input Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:00:44 --> Language Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Model Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Model Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:00:44 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:00:44 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:00:44 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:00:44 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:00:44 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:00:44 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:00:44 --> Final output sent to browser
+DEBUG - 2015-03-19 17:00:44 --> Total execution time: 0.0352
+DEBUG - 2015-03-19 17:00:52 --> Config Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:00:52 --> URI Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Router Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Output Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Security Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Input Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:00:52 --> Language Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Model Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Model Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:00:52 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:00:52 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:00:52 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:00:52 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:00:52 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:00:52 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:00:52 --> Final output sent to browser
+DEBUG - 2015-03-19 17:00:52 --> Total execution time: 0.0343
+DEBUG - 2015-03-19 17:02:12 --> Config Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:02:12 --> URI Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Router Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Output Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Security Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Input Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:02:12 --> Language Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:02:12 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:02:12 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:02:12 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:02:12 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:02:12 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:02:12 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:02:12 --> Final output sent to browser
+DEBUG - 2015-03-19 17:02:12 --> Total execution time: 0.0759
+DEBUG - 2015-03-19 17:02:39 --> Config Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:02:39 --> URI Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Router Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Output Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Security Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Input Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:02:39 --> Language Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:02:39 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:02:39 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:02:39 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:02:39 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:02:39 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:02:39 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:02:39 --> Final output sent to browser
+DEBUG - 2015-03-19 17:02:39 --> Total execution time: 0.0408
+DEBUG - 2015-03-19 17:02:46 --> Config Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:02:46 --> URI Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Router Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Output Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Security Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Input Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:02:46 --> Language Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:02:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:02:46 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:02:46 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:02:46 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:02:46 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:02:46 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:02:46 --> Final output sent to browser
+DEBUG - 2015-03-19 17:02:46 --> Total execution time: 0.0405
+DEBUG - 2015-03-19 17:02:52 --> Config Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:02:52 --> URI Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Router Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Output Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Security Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Input Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:02:52 --> Language Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Model Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:02:52 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:02:52 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:02:52 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:02:52 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:02:52 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:02:52 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:02:52 --> Final output sent to browser
+DEBUG - 2015-03-19 17:02:52 --> Total execution time: 0.0377
+DEBUG - 2015-03-19 17:03:03 --> Config Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:03:03 --> URI Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Router Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Output Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Security Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Input Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:03:03 --> Language Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:03:03 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:03:03 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:03:03 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:03:03 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:03:03 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:03:03 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:03:03 --> Final output sent to browser
+DEBUG - 2015-03-19 17:03:03 --> Total execution time: 0.1716
+DEBUG - 2015-03-19 17:03:07 --> Config Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:03:07 --> URI Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Router Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Output Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Security Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Input Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:03:07 --> Language Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:03:07 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:03:07 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:03:07 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:03:07 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:03:07 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:03:07 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:03:07 --> Final output sent to browser
+DEBUG - 2015-03-19 17:03:07 --> Total execution time: 0.0723
+DEBUG - 2015-03-19 17:03:13 --> Config Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:03:13 --> URI Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Router Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Output Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Security Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Input Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:03:13 --> Language Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:03:13 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:03:13 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:03:13 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:03:13 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:03:13 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:03:13 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:03:13 --> Final output sent to browser
+DEBUG - 2015-03-19 17:03:13 --> Total execution time: 0.0361
+DEBUG - 2015-03-19 17:03:55 --> Config Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:03:55 --> URI Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Router Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Output Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Security Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Input Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:03:55 --> Language Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Model Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:03:55 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:03:55 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:03:55 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:03:55 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:03:55 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:03:55 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:03:55 --> Final output sent to browser
+DEBUG - 2015-03-19 17:03:55 --> Total execution time: 0.0565
+DEBUG - 2015-03-19 17:04:00 --> Config Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:04:00 --> URI Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Router Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Output Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Security Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Input Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:04:00 --> Language Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:04:00 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:04:00 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:04:00 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:04:00 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:04:00 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:04:00 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:04:00 --> Final output sent to browser
+DEBUG - 2015-03-19 17:04:00 --> Total execution time: 0.0418
+DEBUG - 2015-03-19 17:04:05 --> Config Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:04:05 --> URI Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Router Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Output Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Security Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Input Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:04:05 --> Language Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:04:05 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:04:05 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:04:05 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:04:05 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:04:05 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:04:05 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:04:05 --> Final output sent to browser
+DEBUG - 2015-03-19 17:04:05 --> Total execution time: 0.0342
+DEBUG - 2015-03-19 17:04:23 --> Config Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:04:23 --> URI Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Router Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Output Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Security Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Input Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:04:23 --> Language Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:04:23 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:04:23 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:04:23 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:04:23 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:04:23 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:04:23 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:04:23 --> Final output sent to browser
+DEBUG - 2015-03-19 17:04:23 --> Total execution time: 0.0384
+DEBUG - 2015-03-19 17:04:47 --> Config Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:04:47 --> URI Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Router Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Output Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Security Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Input Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:04:47 --> Language Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Model Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:04:47 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:04:47 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:04:47 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:04:47 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:04:47 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:04:47 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:04:47 --> Final output sent to browser
+DEBUG - 2015-03-19 17:04:47 --> Total execution time: 0.1746
+DEBUG - 2015-03-19 17:05:06 --> Config Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:05:06 --> URI Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Router Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Output Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Security Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Input Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:05:06 --> Language Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Model Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Model Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:05:06 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:05:06 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:05:06 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:05:06 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:05:06 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:05:06 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:05:06 --> Final output sent to browser
+DEBUG - 2015-03-19 17:05:06 --> Total execution time: 0.0429
+DEBUG - 2015-03-19 17:05:16 --> Config Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:05:16 --> URI Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Router Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Output Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Security Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Input Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:05:16 --> Language Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Model Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Model Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:05:16 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:05:16 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:05:16 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:05:16 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:05:16 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:05:16 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:05:16 --> Final output sent to browser
+DEBUG - 2015-03-19 17:05:16 --> Total execution time: 0.1267
+DEBUG - 2015-03-19 17:05:23 --> Config Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Hooks Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Utf8 Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> UTF-8 Support Enabled
+DEBUG - 2015-03-19 17:05:23 --> URI Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Router Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Output Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Security Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Input Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-19 17:05:23 --> Language Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Loader Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Database Driver Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Model Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Model Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Controller Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> Helper loaded: form_helper
+DEBUG - 2015-03-19 17:05:23 --> Helper loaded: url_helper
+DEBUG - 2015-03-19 17:05:23 --> Form Validation Class Initialized
+DEBUG - 2015-03-19 17:05:23 --> File loaded: application/views/comun/header.php
+DEBUG - 2015-03-19 17:05:23 --> File loaded: application/views/comun/nav.php
+DEBUG - 2015-03-19 17:05:23 --> File loaded: application/views/ac/inscribirse.php
+DEBUG - 2015-03-19 17:05:23 --> File loaded: application/views/comun/footer.php
+DEBUG - 2015-03-19 17:05:23 --> Final output sent to browser
+DEBUG - 2015-03-19 17:05:23 --> Total execution time: 0.0355
