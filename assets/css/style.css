@@ -196,7 +196,7 @@ borde {
     height: 100%;
 }
 
-.fourth {background: #3D9899;}
+.fourth {background: #3D9899; margin-bottom: 20px;}
 
 .categorias {
     position: relative;

@@ -136,15 +136,71 @@ input + label {
     width: 100%;
 }
 
+.menu-title {
+    width: 100%;
+    height: 50px;
+    background: white;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+    color: #1F1F1F;
+    background: white;
+    text-align: center;
+}
+
 .contest-description {
     position: absolute;
     z-index: 2;
     top: 0%;
     text-align: center;
-    width: 100%;
+    width: 750px;
     height: 100%;
     background: rgba(0,0,0,0.5);
     line-height: 250px;
+}
+
+.menu-wrapper {
+    position: relative;
+    top: 100px;
+    width: 100%;
+    max-width: 800px;
+    padding-bottom: 100px;
+}
+
+.contest-container {
+    height: 50px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.contest-thumb {
+    width: 50px;
+}
+
+.contest-thumb > img {
+    width: 100%;
+}
+
+.cnts {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.contest-name {
+    height: 50px;
+    background: white;
+    line-height: 50px;
+    font-family: "Raleway";
+    padding-left: 20px;
+    width: 745px;
+    padding-right: 20px;
+    font-weight: 600;
+}
+
+.contest-container:hover .contest-name, .contest-container:hover .contest-thumb {
+    box-shadow: 0px 0px 10px white;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
@@ -172,4 +228,9 @@ input + label {
         width: 29%;
         display: inline-block;
     }
+    
+    .contest-name {
+        width: 83%;
+    }
+    
 }
