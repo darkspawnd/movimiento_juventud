@@ -50,7 +50,7 @@
             <input type="text" class="form-control" placeholder="Nombre Del Grupo" name="nombre_equipo"/>
         </div>
         <div class="form-row">
-            <input type="text" class="form-control" placeholder="Cantidad de Integrantes" name="numero_integrantes"/>
+            <input type="text" class="form-control" placeholder="Cantidad de Integrantes" name="numero_integrantes" onkeypress="return event.charCode >= 48 && event.charCode <= 57"/>
         </div>
 		<h3>Ramas</h3>
 		<div class="all"><input type="radio" name="id_concurso"  id="r1" value="11" checked /><label for="r1"> &nbsp Baile Coreografico</label> </div>
@@ -60,7 +60,8 @@
             <input type="checkbox" id="terminos" name="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> He leído y acepto los términos y condiciones </label> <a href="#">(Ver términos y condiciones)</a>
         </div>
         <div class="form-row">
-            <input type="submit" class="form-control" value="Enviar Inscripción"/>
+           <input type="button" class="form-control btn_bottom" value="Descargar ficha" onclick="window.location ='https://drive.google.com/file/d/0B_I-3D9xnhN8WGR3RVhTX0NJVTA/view?usp=sharing'" />
+            <input type="submit" class="form-control send-art btn_bottom" />
         </div>
     </div>
 	</body>

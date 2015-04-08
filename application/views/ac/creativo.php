@@ -82,10 +82,10 @@
 		 	 <option value="color">Color </option>
 		</select>
         <div class="form-row">
-            <input type="checkbox" id="terminos" name="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> He leído y acepto los términos y condiciones </label> <a href="#">(Ver términos y condiciones)</a>
+            <input type="checkbox" id="terminos" name="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> Doy fe de la veracidad de los datos y me comprometo a cumplir las bases del evento</label> <a href="#">(Ver bases)</a>
         </div>
         <div class="form-row">
-            <input type="button" class="form-control btn_bottom" value="Descargar ficha"/>
+            <input type="button" class="form-control btn_bottom" value="Descargar ficha" onClick="window.location = ' https://drive.google.com/file/d/0B_I-3D9xnhN8Z3pQenFVSWNVbmM/view?usp=sharing'"/>
             <input type="submit" class="form-control send-art btn_bottom" />
         </div>
     </form>

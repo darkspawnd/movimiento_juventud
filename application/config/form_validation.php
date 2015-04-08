@@ -58,7 +58,7 @@ $config = array(
                                          ),
                                      array(
                                         'field' => 'terminos',
-                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
                                         )
                                     ),
@@ -70,22 +70,17 @@ $config = array(
                                          ),
                                     array(
                                             'field' => 'direccion_establecimiento',
-                                            'label' => 'Direccion del establecimiento',
+                                            'label' => 'Direccion del Establecimiento',
                                             'rules' => 'required'
                                          ),
                                     array(
                                             'field' => 'mail_establecimiento',
-                                            'label' => 'Correo del establecimiento',
+                                            'label' => 'Correo del Establecimiento',
                                             'rules' => 'valid_emails'
                                          ),
                                     array(
                                             'field' => 'telefono_establecimiento',
                                             'label' => 'Teléfono del Establecimiento',
-                                            'rules' => 'required'
-                                         ),
-                                    array(
-                                            'field' => 'nombre_equipo',
-                                            'label' => 'Nombre del Grupo',
                                             'rules' => 'required'
                                          ),
                                     array(
@@ -99,14 +94,20 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                     array(
-                                            'field' => 'mail_represenante',
-                                            'label' => 'Correo del encargado',
+                                            'field' => 'mail_encargado',
+                                            'label' => 'Correo del Representante',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
                                          ),
                                     array(
+                                        'field' => 'numero_integrantes',
+                                        'label' => 'Cantidad de Integrantes',
+                                        'rules' => 'required' ,
+                                        'rules' => 'integer'
+                                        ),
+                                    array(
                                         'field' => 'terminos',
-                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
                                         )
                                     ),
@@ -162,7 +163,7 @@ $config = array(
                                         ),
                                     array(
                                         'field' => 'terminos',
-                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
                                         )
                                     ),
@@ -234,7 +235,7 @@ $config = array(
                                          ),
                                     array(
                                         'field' => 'terminos',
-                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
                                         )
                                     ),
@@ -282,7 +283,7 @@ $config = array(
                                          ),
                                     array(
                                         'field' => 'terminos',
-                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
                                         )
                                     ),
@@ -335,7 +336,7 @@ $config = array(
                                          ),
                                     array(
                                         'field' => 'terminos',
-                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
                                         )
                                     ),
@@ -388,7 +389,7 @@ $config = array(
                                          ),
                                     array(
                                         'field' => 'terminos',
-                                        'label' => 'donde acepta los terminos y condiciones',
+                                        'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
                                         )
                                     )                       

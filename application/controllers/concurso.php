@@ -154,5 +154,48 @@ class Concurso extends CI_Controller {
 			$this->load->view('comun/footer');
 		}
 	}
+
+ 	function corosSubmit()
+	{
+		$this->load->helper(array('form', 'url'));
+		$this->load->library('form_validation');
+		
+		if ($this->form_validation->run('coros') == false)
+		{	
+		// Hubo error en la validacion
+		$this->load->view('comun/header');
+		$this->load->view('comun/nav');
+		$this->load->view('ac/coros');
+		$this->load->view('comun/footer');
+
+		}
+		else
+		{
+			// array campos de la base de datos y las variables del POST
+			$data_establecimiento = array(
+			   'nombre_establecimiento' => $_POST['nombre_establecimiento']	,
+			   'direccion_establecimiento' => $_POST['direccion_establecimiento'] ,
+			   'telefono_establecimiento' => $_POST['telefono_establecimiento']
+			);
+			$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
+			
+			$data_encargado = array(
+				'nombre_encargado' => $_POST['nombre_encargado'],
+				'telefono_encargado' => $_POST['telefono_encargado'],
+				'mail_encargado' => $_POST['mail_encargado'],
+				);
+			$id_encargado = $this->Insertar->newEncargado($data_encargado);
+			
+			$data_equipo = array(
+				'nombre_equipo' => "Coro de ".$_POST['nombre_establecimiento'],
+				'id_establecimiento' => $id_establecimiento,
+				'id_encargado' => $id_encargado,
+				'id_concurso' => $_POST['id_concurso'],
+				'numero_integrantes' => $_POST['numero_integrantes'],
+				);
+			$id_equipo = $this->Insertar->newEquipo($data_equipo);
+		}
+	}
+
 }
 ?>
