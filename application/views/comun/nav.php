@@ -3,7 +3,7 @@
     <div class="header-bg"> </div>
         <div class="header-wrapper">
         <div class="logo-header"> <img src="http://localhost:8888/movimiento_juventud/assets/images/logo-header_w.png"/> </div>
-        <div class="inscribete"> <a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/menu">INSCRIBETE </a></div>
+        <a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/menu"><div class="inscribete"> INSCRIBETE </div></a>
             <div class="header-container">
                 <div class="opt" id="redirect"> <a href="#first">Inicio</a> </div>
                 <div class="opt formC"> <a href="#third">Historia</a> </div>
