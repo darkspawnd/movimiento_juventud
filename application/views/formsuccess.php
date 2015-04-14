@@ -1,12 +1,12 @@
-<html>
-<head>
-<title>My Form</title>
-</head>
+
+<link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
 <body>
-
-<h3>Your form was successfully submitted!</h3>
-
-<p><?php echo anchor('form', 'Try it again!'); ?></p>
-
+    <div class="wrapper error404">
+        <h1 style="color: #9CE366;"> Formulario Enviado </h1><hr />
+        <p> <label class="strong"> Página no encontrada </label>
+            <a href="./">Volver a la página principal</a>
+        </p>
+    </div>   
+        <div class="form-wrapper"></div>
 </body>
-</html>

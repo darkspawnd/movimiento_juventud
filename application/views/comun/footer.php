@@ -6,15 +6,17 @@
     console.log($("body").height() );
     console.log($(window).height());
     
-    if($("body").height() > $(window).height()){
+    if($("body").height() <= $(window).height()){
+        console.log("body <= window");
         $("footer").css({
-            position: "relative",
+            position: "fixed",
             bottom: 0,
             left: 0
         });   
     }else{
+        console.log("body > window");
         $("footer").css({
-            position: "fixed",
+            position: "relative",
             bottom: 0,
             left: 0
         }); 

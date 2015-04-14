@@ -23,12 +23,13 @@
     </div> 
     <form method="post" accept-charset="utf-8" action="http://localhost:8888/movimiento_juventud/index.php/concurso/bailesubmit"/>
     <div class="form-wrapper">
-        <div class="error-box">
-            <div class="error-container">
-                <p class="warning"><label class="strong big">Advertencias: </label></p>
-                <?php echo validation_errors(); ?>
-            </div>
-        </div>
+        <?php echo validation_errors('<div class="error-box"><div class="error-container">-', '</div></div>'); ?>
+        <script type="application/javascript">
+            if($(".error-box").length > 0){
+                var boxes = document.getElementsByClassName("error-box");
+                boxes[boxes.length - 1].style.paddingBottom = "20px";
+            }
+        </script>
 		<h2>Inscripción</h2>
         <h3> Datos del establecimiento: </h3>
         <div class="form-row">

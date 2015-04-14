@@ -18,7 +18,6 @@ class Concurso extends CI_Controller {
 
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
-	
 		if ($this->form_validation->run('creativo') == false)
 		{	
 	// Hubo error en la validacion

@@ -163,10 +163,10 @@ input + label {
 
 .menu-wrapper {
     position: relative;
-    top: 100px;
+    margin-top: 100px;
     width: 100%;
     max-width: 800px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 
 .contest-container {
@@ -205,8 +205,25 @@ input + label {
 
 .error-box {
     background: #FF3355;
-    padding: 10px;
     color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.error-box:first-child:before {
+    content: "Advertencia:";
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.error-box:first-child {
+    padding-top: 20px;
+}
+
+.error-container > p {
+    margin: 0;
+    padding: 0;
 }
 
 .error-container > .warning:before {

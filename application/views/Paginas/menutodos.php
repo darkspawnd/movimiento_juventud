@@ -165,7 +165,7 @@
             <div class="contest-name cnts">Diseño</div>
         </div>
     </div>
-    </body>
+</body>
 
 <script type="application/javascript">
     $(".contest-container").click(function () {
