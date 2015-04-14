@@ -7806,3 +7806,368 @@ DEBUG - 14-04-2015 08:11:51 --> File loaded: application/views/comun/footer.php
 DEBUG - 14-04-2015 08:11:51 --> Final output sent to browser
 DEBUG - 14-04-2015 08:11:51 --> Total execution time: 0.3982
 >>>>>>> Stashed changes
+DEBUG - 14-04-2015 08:23:13 --> Config Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:23:13 --> URI Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Router Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Output Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Security Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Input Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:23:13 --> Language Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Model Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Model Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:23:13 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:23:13 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:23:13 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:23:13 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:23:13 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 08:23:13 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:23:13 --> Final output sent to browser
+DEBUG - 14-04-2015 08:23:13 --> Total execution time: 0.3023
+DEBUG - 14-04-2015 08:24:42 --> Config Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:24:43 --> URI Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Router Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Output Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Security Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Input Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:24:43 --> Language Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Model Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Model Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:24:43 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:24:43 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:24:43 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:24:43 --> Severity: Notice  --> Undefined variable: ahora /Applications/MAMP/htdocs/movimiento_juventud/application/controllers/concurso.php 116
+ERROR - 14-04-2015 08:24:43 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 268
+ERROR - 14-04-2015 08:24:43 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 269
+ERROR - 14-04-2015 08:24:43 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 270
+ERROR - 14-04-2015 08:24:43 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 271
+DEBUG - 14-04-2015 08:24:44 --> DB Transaction Failure
+ERROR - 14-04-2015 08:24:44 --> Query error: Unknown column 'nombre_equipo' in 'where clause'
+DEBUG - 14-04-2015 08:24:44 --> Language file loaded: language/spanish/db_lang.php
+ERROR - 14-04-2015 08:24:44 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/application/config/form_validation.php:2) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 14-04-2015 08:25:46 --> Config Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:25:46 --> URI Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Router Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Output Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Security Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Input Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:25:46 --> Language Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Model Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Model Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:25:46 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:25:46 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:25:46 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:25:46 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:25:47 --> Severity: Notice  --> Undefined variable: idAsignacion_Individual /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 170
+DEBUG - 14-04-2015 08:27:38 --> Config Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:27:38 --> URI Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Router Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Output Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Security Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Input Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:27:38 --> Language Class Initialized
+DEBUG - 14-04-2015 08:27:38 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:27:39 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:27:39 --> Model Class Initialized
+DEBUG - 14-04-2015 08:27:39 --> Model Class Initialized
+DEBUG - 14-04-2015 08:27:39 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:27:39 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:27:39 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:27:39 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:27:39 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:27:39 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:27:39 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 268
+ERROR - 14-04-2015 08:27:39 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 269
+ERROR - 14-04-2015 08:27:39 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 270
+ERROR - 14-04-2015 08:27:39 --> Severity: Notice  --> Undefined variable: data /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 271
+DEBUG - 14-04-2015 08:27:39 --> DB Transaction Failure
+ERROR - 14-04-2015 08:27:39 --> Query error: Unknown column 'nombre_equipo' in 'where clause'
+DEBUG - 14-04-2015 08:27:39 --> Language file loaded: language/spanish/db_lang.php
+ERROR - 14-04-2015 08:27:39 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/application/config/form_validation.php:2) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 14-04-2015 08:28:23 --> Config Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:28:23 --> URI Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Router Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Output Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Security Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Input Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:28:23 --> Language Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Model Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Model Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:28:23 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:28:23 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:28:23 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:28:23 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:28:23 --> Severity: Notice  --> Undefined index: nombre_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 268
+DEBUG - 14-04-2015 08:28:23 --> DB Transaction Failure
+ERROR - 14-04-2015 08:28:23 --> Query error: Unknown column 'nombre_equipo' in 'where clause'
+DEBUG - 14-04-2015 08:28:23 --> Language file loaded: language/spanish/db_lang.php
+ERROR - 14-04-2015 08:28:23 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/application/config/form_validation.php:2) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 14-04-2015 08:29:13 --> Config Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:29:13 --> URI Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Router Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Output Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Security Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Input Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:29:13 --> Language Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Model Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Model Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:29:13 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:29:13 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:29:13 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:29:13 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 14-04-2015 08:29:13 --> DB Transaction Failure
+ERROR - 14-04-2015 08:29:13 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`juventud`.`formulario`, CONSTRAINT `formulario_ibfk_1` FOREIGN KEY (`id_equipo`) REFERENCES `Equipo` (`idEquipo`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+DEBUG - 14-04-2015 08:29:13 --> Language file loaded: language/spanish/db_lang.php
+ERROR - 14-04-2015 08:29:13 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/application/config/form_validation.php:2) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 14-04-2015 08:31:21 --> Config Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:31:21 --> URI Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Router Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Output Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Security Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Input Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:31:21 --> Language Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Model Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Model Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:31:21 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:31:21 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:31:21 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:31:22 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:31:22 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:31:22 --> Severity: Notice  --> Undefined index: id_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 269
+ERROR - 14-04-2015 08:31:22 --> Severity: Notice  --> Undefined index: id_asignar_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 270
+DEBUG - 14-04-2015 08:31:22 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:31:22 --> File loaded: application/views/comun/nav.php
+ERROR - 14-04-2015 08:31:22 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/application/config/form_validation.php:2) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 14-04-2015 08:33:24 --> Config Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:33:24 --> URI Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Router Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Output Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Security Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Input Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:33:24 --> Language Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Model Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Model Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:33:24 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:33:24 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:33:24 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:33:24 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:33:24 --> Severity: Notice  --> Undefined index: id_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 269
+ERROR - 14-04-2015 08:33:24 --> Severity: Notice  --> Undefined index: id_asignar_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 270
+DEBUG - 14-04-2015 08:33:24 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:33:24 --> File loaded: application/views/comun/nav.php
+ERROR - 14-04-2015 08:33:24 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/movimiento_juventud/application/config/form_validation.php:2) /Applications/MAMP/htdocs/movimiento_juventud/system/core/Common.php 441
+DEBUG - 14-04-2015 08:34:21 --> Config Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:34:21 --> URI Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Router Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Output Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Security Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Input Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:34:21 --> Language Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Model Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Model Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:34:21 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:34:21 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:34:21 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:34:21 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:34:21 --> Severity: Notice  --> Undefined index: id_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 269
+ERROR - 14-04-2015 08:34:21 --> Severity: Notice  --> Undefined index: id_asignar_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 270
+DEBUG - 14-04-2015 08:34:21 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:34:21 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:34:21 --> File loaded: application/views/paginas/formsuccess.php
+DEBUG - 14-04-2015 08:34:21 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:34:21 --> Final output sent to browser
+DEBUG - 14-04-2015 08:34:21 --> Total execution time: 0.3246
+DEBUG - 14-04-2015 08:34:59 --> Config Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:34:59 --> URI Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> Router Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> Output Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> Security Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> Input Class Initialized
+DEBUG - 14-04-2015 08:34:59 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:34:59 --> Language Class Initialized
+DEBUG - 14-04-2015 08:35:00 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:35:00 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:35:00 --> Model Class Initialized
+DEBUG - 14-04-2015 08:35:00 --> Model Class Initialized
+DEBUG - 14-04-2015 08:35:00 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:35:00 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:35:00 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:35:00 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:35:00 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:35:00 --> Language file loaded: language/spanish/form_validation_lang.php
+ERROR - 14-04-2015 08:35:00 --> Severity: Notice  --> Undefined index: id_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 269
+ERROR - 14-04-2015 08:35:00 --> Severity: Notice  --> Undefined index: id_asignar_equipo /Applications/MAMP/htdocs/movimiento_juventud/application/models/insertar.php 270
+DEBUG - 14-04-2015 08:35:00 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:35:00 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:35:00 --> File loaded: application/views/paginas/formsuccess.php
+DEBUG - 14-04-2015 08:35:00 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:35:00 --> Final output sent to browser
+DEBUG - 14-04-2015 08:35:00 --> Total execution time: 0.3358
+DEBUG - 14-04-2015 08:36:22 --> Config Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:36:22 --> URI Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Router Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Output Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Security Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Input Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:36:22 --> Language Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Model Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Model Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:36:22 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:36:22 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:36:22 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:36:22 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 14-04-2015 08:36:22 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:36:22 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:36:22 --> File loaded: application/views/paginas/formsuccess.php
+DEBUG - 14-04-2015 08:36:22 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:36:22 --> Final output sent to browser
+DEBUG - 14-04-2015 08:36:22 --> Total execution time: 0.2788
+DEBUG - 14-04-2015 08:38:09 --> Config Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:38:09 --> URI Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Router Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Output Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Security Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Input Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:38:09 --> Language Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Model Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Model Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 08:38:09 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 08:38:09 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 08:38:09 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 08:38:09 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 14-04-2015 08:38:09 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:38:09 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:38:09 --> File loaded: application/views/paginas/formsuccess.php
+DEBUG - 14-04-2015 08:38:09 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:38:09 --> Final output sent to browser
+DEBUG - 14-04-2015 08:38:09 --> Total execution time: 0.1508
+DEBUG - 14-04-2015 08:38:32 --> Config Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:38:32 --> URI Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Router Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> No URI present. Default controller set.
+DEBUG - 14-04-2015 08:38:32 --> Output Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Security Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Input Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:38:32 --> Language Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Model Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Model Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:38:32 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:38:32 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:38:32 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 14-04-2015 08:38:32 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:38:32 --> Final output sent to browser
+DEBUG - 14-04-2015 08:38:32 --> Total execution time: 0.0394
+DEBUG - 14-04-2015 08:38:35 --> Config Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:38:35 --> URI Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Router Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Output Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Security Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Input Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:38:35 --> Language Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Model Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Model Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:38:35 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:38:35 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:38:35 --> File loaded: application/views/paginas/menutodos.php
+DEBUG - 14-04-2015 08:38:35 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:38:35 --> Final output sent to browser
+DEBUG - 14-04-2015 08:38:35 --> Total execution time: 0.1481

@@ -19,6 +19,9 @@ class Concurso extends CI_Controller {
 
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
+		$this->load->helper('date');
+		$ahora=unix_to_human(time());
+
 		if ($this->form_validation->run('creativo') == false)
 		{	
 	// Hubo error en la validacion
@@ -110,8 +113,8 @@ class Concurso extends CI_Controller {
 // Se Ingresa el formulario con la fecha 
 			$data_formulario = array(
 				'id_asignacion_individual' => $id_asignacion_individual,
-				'id_equipo' => '',
-				'id_asignar_equipo' => '',
+				'id_equipo' => null,
+				'id_asignar_equipo' => null,
 				'fecha_inclucion' => $ahora
 				);
 			$id_formulario = $this->Insertar->newFormulario($data_formulario);
@@ -119,7 +122,7 @@ class Concurso extends CI_Controller {
 // Mostromos la vista de que se ingreso correctamente
 			$this->load->view('comun/header');
 			$this->load->view('comun/nav');
-			// falta vista de Ingreso exitoso
+			$this->load->view('paginas/formsuccess');
 			$this->load->view('comun/footer');
 		}
 	}
@@ -132,6 +135,8 @@ class Concurso extends CI_Controller {
 	{
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
+		$this->load->helper('date');
+		$ahora=unix_to_human(time());
 	
 		if ($this->form_validation->run('baile') == false)
 		{	
@@ -169,9 +174,9 @@ class Concurso extends CI_Controller {
 			$id_equipo = $this->Insertar->newEquipo($data_equipo);
 
 			$data_formulario = array(
-				'id_asignacion_individual' => '',
+				'id_asignacion_individual' => null,
 				'id_equipo' => $id_equipo,
-				'id_asignar_equipo' => '',
+				'id_asignar_equipo' => null,
 				'fecha_inclucion' => $ahora
 				);
 			$id_formulario = $this->Insertar->newFormulario($data_formulario);
@@ -179,7 +184,7 @@ class Concurso extends CI_Controller {
 // Mostramos la vista de que se ingreso correctamente
 			$this->load->view('comun/header');
 			$this->load->view('comun/nav');
-			// falta vista de Ingreso exitoso
+			$this->load->view('paginas/formsuccess');
 			$this->load->view('comun/footer');
 		}
 	}
@@ -193,6 +198,8 @@ class Concurso extends CI_Controller {
 	{
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
+		$this->load->helper('date');
+		$ahora=unix_to_human(time());
 		
 		if ($this->form_validation->run('coros') == false)
 		{	
@@ -230,12 +237,17 @@ class Concurso extends CI_Controller {
 			$id_equipo = $this->Insertar->newEquipo($data_equipo);
 
 			$data_formulario = array(
-				'id_asignacion_individual' => '',
+				'id_asignacion_individual' => null,
 				'id_equipo' => $id_equipo,
-				'id_asignar_equipo' => '',
+				'id_asignar_equipo' => null,
 				'fecha_inclucion' => $ahora
 				);
 			$id_formulario = $this->Insertar->newFormulario($data_formulario);
+
+			$this->load->view('comun/header');
+			$this->load->view('comun/nav');
+			$this->load->view('paginas/formsuccess');
+			$this->load->view('comun/footer');
 		}
 	}
 
@@ -285,12 +297,17 @@ class Concurso extends CI_Controller {
 			$id_equipo = $this->Insertar->newEquipo($data_equipo);
 
 			$data_formulario = array(
-				'id_asignacion_individual' => '',
+				'id_asignacion_individual' => null,
 				'id_equipo' => $id_equipo,
-				'id_asignar_equipo' => '',
+				'id_asignar_equipo' => null,
 				'fecha_inclucion' => $ahora
 				);
 			$id_formulario = $this->Insertar->newFormulario($data_formulario);
+
+			$this->load->view('comun/header');
+			$this->load->view('comun/nav');
+			$this->load->view('paginas/formsuccess');
+			$this->load->view('comun/footer');
 		}
 	}
 

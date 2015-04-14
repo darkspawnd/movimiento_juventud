@@ -167,7 +167,7 @@ function newAsignacion_Individual($data)
 
 	if ($query->num_rows()>=1) {
 		$row= $query->row();
-		$idAsignacion_Individual = $row->$idAsignacion_Individual;
+		$idAsignacion_Individual = $row->idAsignacion_Individual;
 	}else{
 		$idAsignacion_Individual = '';
 	}
@@ -255,14 +255,16 @@ estan para poder
 ingresar  y verificar la 
 existencia de datos 
 de FORMULARIOS*/
-function exists_formulario()
+function exists_formulario($id)
 {
-	
+	$this->db->from('Formulario');
+	$this->db->where('idFormulario',$id);
+	$query = $this->db->get();
+	return ($query->num_rows()>=1);
 }
 
-function newFormulario()
+function newFormulario($data)
 {
-$this->db->where('nombre_equipo',$data['nombre_equipo']);
 	$this->db->where('id_asignacion_individual',$data['id_asignacion_individual']);
 	$this->db->where('id_equipo',$data['id_equipo']);
 	$this->db->where('id_asignar_equipo',$data['id_asignar_equipo']);

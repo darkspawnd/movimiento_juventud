@@ -4,8 +4,7 @@
 <body>
     <div class="wrapper error404">
         <h1 style="color: #9CE366;"> Formulario Enviado </h1><hr />
-        <p> <label class="strong"> Página no encontrada </label>
-            <a href="./">Volver a la página principal</a>
+            <a href="../">Volver a la página principal</a>
         </p>
     </div>   
         <div class="form-wrapper"></div>
