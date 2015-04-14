@@ -70,4 +70,5 @@
             <input type="submit" class="form-control send-art btn_bottom" />
         </div>
     </div>
+    </form>
 	</body>

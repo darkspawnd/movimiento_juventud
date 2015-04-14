@@ -52,11 +52,27 @@ $config = array(
                                             'rules' => 'required'
                                          ),
                                      array(
-                                            'field' => 'genero',
-                                            'label' => 'Genero',
+                                            'field' => 'nombre_encargado',
+                                            'label' => 'Nombre del Encargado',
                                             'rules' => 'required'
                                          ),
-                                     array(
+                                    array(
+                                            'field' => 'telefono_encargado',
+                                            'label' => 'Teléfono del Encargado',
+                                            'rules' => 'required'
+                                         ),
+                                    array(
+                                            'field' => 'mail_encargado',
+                                            'label' => 'Correo del Encargado',
+                                            'rules' => 'valid_email',
+                                            'rules' => 'required'
+                                         ),
+                                    array(
+                                            'field' => 'cargo',
+                                            'label' => 'Cargo del Encargado',
+                                            'rules' => 'required' 
+                                        ),
+                                    array(
                                         'field' => 'terminos',
                                         'label' => 'donde acepta las bases del concurso',
                                         'rules' => 'required'
@@ -145,7 +161,7 @@ $config = array(
                                     array(
                                             'field' => 'mail_encargado',
                                             'label' => 'Correo del Representante',
-                                            'rules' => 'valid_emails',
+                                            'rules' => 'valid_email',
                                             'rules' => 'required'
                                          ),
                                     array(
@@ -224,7 +240,7 @@ $config = array(
                                          ),
                                      array(
                                             'field' => 'categoria',
-                                            'label' => 'Categoria',
+                                            'label' => 'Categoría',
                                             'rules' => 'required'
                                          ),
                                     array(
@@ -267,20 +283,25 @@ $config = array(
                                          ),
                                     array(
                                             'field' => 'nombre_encargado',
-                                            'label' => 'Nombre del Representante',
+                                            'label' => 'Nombre del Director',
                                             'rules' => 'required'
                                          ),
                                     array(
                                             'field' => 'telefono_encargado',
-                                            'label' => 'Teléfono del Representante',
+                                            'label' => 'Teléfono del Director',
                                             'rules' => 'required'
                                          ),
                                     array(
                                             'field' => 'mail_encargado',
-                                            'label' => 'Correo del Representante',
+                                            'label' => 'Correo del Director',
                                             'rules' => 'valid_emails',
                                             'rules' => 'required'
                                          ),
+                                    array(
+                                        'field' => 'nombre_equipo',
+                                        'label' => 'Nombre de la Marimba',
+                                        'rules' => 'required'
+                                        ),
                                     array(
                                         'field' => 'terminos',
                                         'label' => 'donde acepta las bases del concurso',
@@ -325,7 +346,7 @@ $config = array(
                                          ),
                                     array(
                                             'field' => 'categoria',
-                                            'label' => 'Categoria',
+                                            'label' => 'Categoría',
                                             'rules' => 'required'
                                          ),
                                     array(

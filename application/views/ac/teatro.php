@@ -7,10 +7,10 @@
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
         </div>
 	    <div class="form-row">
-		  <input type="text"class="form-control" placeholder="Direecion" name="direccion_establecimiento"/>
+		  <input type="text"class="form-control" placeholder="Dirección" name="direccion_establecimiento"/>
         </div>  
         <div class="form-row">
-		  <input type="text" class="form-control" placeholder="Telefono"  name="telefono_establecimiento"/>
+		  <input type="text" class="form-control" placeholder="Teléfono"  name="telefono_establecimiento"/>
         </div>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Grupo" name="nombre_representante"/>

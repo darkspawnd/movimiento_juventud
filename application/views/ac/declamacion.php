@@ -62,11 +62,11 @@
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Email Del Participante" name="mail_participante"/>
         </div>
-		<h2>Genero</h2>
+		<h2>Género</h2>
         <div class="all"><input id="m" type="radio"  name="genero" value="masculino" checked/><label for="m"> &nbsp Masculino</label> </div>
         <div class="all"><input id="f" type="radio" name="genero" value="femenino"/><label for="f"> &nbsp Femenino</label></div>
-        <h2>Categoria</h2>
-        <div class="all"><input type="radio" name="categoria" value="basicos" checked id="ba"/><label for="ba"> &nbsp Basicos</label> </div>
+        <h2>Categoría</h2>
+        <div class="all"><input type="radio" name="categoria" value="basicos" checked id="ba"/><label for="ba"> &nbsp Básicos</label> </div>
         <div class="all"><input type="radio" name="categoria"value="diversificado" id="di"/><label for="di"> &nbsp Diversificado</label></div>
         <div class="form-row">
             <input type="checkbox" id="terminos" name="terminos" value="aceptar_terminos"> <label class="terms" for="terminos"> Doy fe de la veracidad de los datos y me comprometo a cumplir las bases del evento</label> <a href="#">(Ver bases)</a>

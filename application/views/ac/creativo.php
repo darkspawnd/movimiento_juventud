@@ -71,18 +71,31 @@
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Email Del Participante" name="mail_participante"/>
         </div>
-        <h2>Genero</h2>
+        <h2>Género</h2>
 		<div class="all"><input id="m" type="radio"  name="genero" value="masculino" checked/><label for="m"> &nbsp Masculino</label> </div>
         <div class="all"><input id="f" type="radio" name="genero" value="femenino"/><label for="f"> &nbsp Femenino</label></div>
-		<h2>Categoria</h2>
-		<div class="all"><input type="radio" name="categoria" value="basicos" checked id="ba"/><label for="ba"> &nbsp Basicos</label> </div>
+        <h3>Datos del Encargado:</h3>
+        <div class="form-row">
+            <input type="text" class="form-control" placeholder="Nombre Del Encargado" name="nombre_encargado"/>
+        </div>
+        <div class="form-row">
+            <input type="text" class="form-control" placeholder="Teléfono/Celular Encargado" name="telefono_encargado"/>
+        </div>
+        <div class="form-row">
+            <input type="text" class="form-control" placeholder="Email del Encargado" name="mail_encargado"/>
+        </div>
+         <div class="form-row">
+            <input type="text" class="form-control" placeholder="Cargo del Encargado dentro de su institución" name="cargo"/>
+        </div>
+		<h2>Categoría</h2>
+		<div class="all"><input type="radio" name="categoria" value="basicos" checked id="ba"/><label for="ba"> &nbsp Básicos</label> </div>
         <div class="all"><input type="radio" name="categoria"value="diversificado" id="di"/><label for="di"> &nbsp Diversificado</label></div>
         <h2> Rama </h2>
 		<div class="all"><input type="radio" name="rama" value="caricatura" checked id="ca"/><label for="ca"> &nbsp Caricatura</label></div>
 		<div class="all"><input type="radio" name="rama" value="retrato" id="re"/><label for="re"> &nbsp Retrato</label></div>
 		<select class="form-control" id="one" name="subr">
 			 <option id="vacio1" > ... </option>
-		  	 <option value="lapiz">Lapiz </option>
+		  	 <option value="lapiz">Lápiz </option>
 		 	 <option value="carboncillo" >Carboncillo </option>
 		</select>
 		<div class="all"><input type="radio" name="rama" value="pintura" id="pin"/><label for="pin"> &nbsp Pintura</label></div>

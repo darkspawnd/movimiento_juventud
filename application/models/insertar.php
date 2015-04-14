@@ -2,6 +2,11 @@
 
 class Insertar extends CI_Model {
 
+/*Las siguientes funciones
+estan para poder 
+ingresar  y verificar la 
+existencia de datos 
+de ESTABLECIMIENTOS*/
 
 function exists_establecimiento($id)
 {
@@ -50,6 +55,12 @@ function newEstablecimiento($data)
 
 }
 
+/*Las siguientes funciones
+estan para poder 
+ingresar  y verificar la 
+existencia de datos 
+de PARTICIPANTES*/
+
 function exists_participante($id)
 {
 
@@ -96,6 +107,13 @@ function exists_participante($id)
 		return $idParticipante;
 	}
 }
+
+/*Las siguientes funciones
+estan para poder 
+ingresar  y verificar la 
+existencia de datos 
+de ASIGNAR ESTABLECIMIENTO*/
+
 function exists_asig_P_E($id)
 {
 	$this->db->from('Asignar_Establecimiento');
@@ -126,6 +144,12 @@ function newAsignacion_P_E($data)
 	}
 }
 
+/*Las siguientes funciones
+estan para poder 
+ingresar  y verificar la 
+existencia de datos 
+de ASIGNACION INDIVIDUAL*/
+
 function exists_asignacion_individual($id)
 {
 	$this->db->from('Asignacion_Individual');
@@ -133,7 +157,6 @@ function exists_asignacion_individual($id)
 	$query = $this->db->get();
 	return ($query->num_rows()>=1);
 }
-
 
 function newAsignacion_Individual($data)
 {
@@ -155,6 +178,12 @@ function newAsignacion_Individual($data)
 		return $idAsignacion_Individual;
 	}
 }
+
+/*Las siguientes funciones
+estan para poder 
+ingresar  y verificar la 
+existencia de datos 
+de ENCARGADO*/
 
 function exists_encargado($id)
 {
@@ -184,6 +213,13 @@ function newEncargado($data)
 		return $idEncargado;
 	}
 }
+
+/*Las siguientes funciones
+estan para poder 
+ingresar  y verificar la 
+existencia de datos 
+de EQUIPO*/
+
 function exists_equipo($id)
 {
 	$this->db->from('Equipo');
@@ -214,6 +250,37 @@ function newEquipo($data)
 	}
 }
 
+/*Las siguientes funciones
+estan para poder 
+ingresar  y verificar la 
+existencia de datos 
+de FORMULARIOS*/
+function exists_formulario()
+{
+	
+}
+
+function newFormulario()
+{
+$this->db->where('nombre_equipo',$data['nombre_equipo']);
+	$this->db->where('id_asignacion_individual',$data['id_asignacion_individual']);
+	$this->db->where('id_equipo',$data['id_equipo']);
+	$this->db->where('id_asignar_equipo',$data['id_asignar_equipo']);
+	$this->db->from('Formulario');
+	$query = $this->db->get();
+	if ($query->num_rows()>=1) {
+		$row= $query->row();
+		$idFormulario = $row->idFormulario;
+	}else{
+		$idFormulario = '';
+	}
+	if (!$this->exists_formulario($idFormulario)) {
+		$this->db->insert('Formulario',$data);
+		return $this->db->insert_id();
+	}else{
+		return $idFormulario;
+	}
+}
 
 }
 ?>
