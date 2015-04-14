@@ -1,9 +1,9 @@
 
-	<link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
+	<link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/bootstrap.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/formstyle.css') ?>">
 	<body>
     <div class="cover top no-padding">
-        <img class="cover" src="http://localhost:8888/movimiento_juventud/assets/images/arteycultura.jpg">
+        <img class="cover" src="<? echo base_url('assets/images/arteycultura.jpg') ?>">
     </div>
     <div class="wrapper">
         <h1>Marimba</h1>
@@ -17,16 +17,17 @@
         <p> <b>Fecha</b> - 30 de Julio</p>
         <hr />
     </div>    
-    <form method="post" accept-charset="utf-8" action="http://localhost:8888/movimiento_juventud/index.php/concurso/marimbasubmit"/>
+    <form method="post" accept-charset="utf-8" action="<? echo site_url('concurso/marimbasubmit') ?>"/>
     <div class="form-wrapper">
-        <div class="error-box">
-            <div class="error-container">
-                <p class="warning"><label class="strong big">Advertencias: </label></p>
-                <?php echo validation_errors(); ?>
-            </div>
-        </div>
-        <h2>Inscripción</h2><a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/datos" class="data-purpose">¿Por qué necesitamos estos datos?</a>
-        <a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/datos" class="data-purpose">¿Por qué necesitamos estos datos?</a>
+        <?php echo validation_errors('<div class="error-box"><div class="error-container">-', '</div></div>'); ?>
+        <script type="application/javascript">
+            if($(".error-box").length > 0){
+                var boxes = document.getElementsByClassName("error-box");
+                boxes[boxes.length - 1].style.paddingBottom = "20px";
+            }
+        </script>
+        <h2>Inscripción</h2>
+        <a href="<? echo site_url('iniciar/datos') ?>" class="data-purpose">¿Por qué necesitamos estos datos?</a>
         <h3> Datos del establecimiento: </h3>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>

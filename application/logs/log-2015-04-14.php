@@ -8171,3 +8171,784 @@ DEBUG - 14-04-2015 08:38:35 --> File loaded: application/views/paginas/menutodos
 DEBUG - 14-04-2015 08:38:35 --> File loaded: application/views/comun/footer.php
 DEBUG - 14-04-2015 08:38:35 --> Final output sent to browser
 DEBUG - 14-04-2015 08:38:35 --> Total execution time: 0.1481
+DEBUG - 14-04-2015 08:42:12 --> Config Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Hooks Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 08:42:12 --> URI Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Router Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> No URI present. Default controller set.
+DEBUG - 14-04-2015 08:42:12 --> Output Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Security Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Input Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 08:42:12 --> Language Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Loader Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Model Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Model Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> Controller Class Initialized
+DEBUG - 14-04-2015 08:42:12 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 08:42:12 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 08:42:12 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 14-04-2015 08:42:13 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 08:42:13 --> Final output sent to browser
+DEBUG - 14-04-2015 08:42:13 --> Total execution time: 0.5135
+DEBUG - 14-04-2015 15:04:11 --> Config Class Initialized
+DEBUG - 14-04-2015 15:04:11 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:04:12 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:04:12 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:04:12 --> URI Class Initialized
+DEBUG - 14-04-2015 15:04:12 --> Router Class Initialized
+DEBUG - 14-04-2015 15:04:13 --> No URI present. Default controller set.
+DEBUG - 14-04-2015 15:04:14 --> Output Class Initialized
+DEBUG - 14-04-2015 15:04:15 --> Security Class Initialized
+DEBUG - 14-04-2015 15:04:15 --> Input Class Initialized
+DEBUG - 14-04-2015 15:04:15 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:04:15 --> Language Class Initialized
+DEBUG - 14-04-2015 15:04:16 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:04:17 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:04:17 --> Model Class Initialized
+DEBUG - 14-04-2015 15:04:17 --> Model Class Initialized
+DEBUG - 14-04-2015 15:04:17 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:04:18 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:04:18 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:04:18 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 14-04-2015 15:04:18 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:04:18 --> Final output sent to browser
+DEBUG - 14-04-2015 15:04:18 --> Total execution time: 7.2524
+DEBUG - 14-04-2015 15:04:19 --> Config Class Initialized
+DEBUG - 14-04-2015 15:04:19 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:04:19 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:04:19 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:04:19 --> URI Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Router Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> No URI present. Default controller set.
+DEBUG - 14-04-2015 15:04:20 --> Output Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Security Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Input Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:04:20 --> Language Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Model Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Model Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:04:20 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:04:20 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:04:20 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 14-04-2015 15:04:20 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:04:20 --> Final output sent to browser
+DEBUG - 14-04-2015 15:04:20 --> Total execution time: 1.6382
+DEBUG - 14-04-2015 15:04:46 --> Config Class Initialized
+DEBUG - 14-04-2015 15:04:46 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:04:46 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:04:46 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:04:46 --> URI Class Initialized
+DEBUG - 14-04-2015 15:04:46 --> Router Class Initialized
+DEBUG - 14-04-2015 15:04:46 --> Output Class Initialized
+DEBUG - 14-04-2015 15:04:46 --> Security Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> Input Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:04:47 --> Language Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> Model Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> Model Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:04:47 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:04:47 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:04:47 --> File loaded: application/views/paginas/menutodos.php
+DEBUG - 14-04-2015 15:04:47 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:04:47 --> Final output sent to browser
+DEBUG - 14-04-2015 15:04:47 --> Total execution time: 0.1083
+DEBUG - 14-04-2015 15:05:05 --> Config Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:05:05 --> URI Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Router Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Output Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Security Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Input Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:05:05 --> Language Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Model Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Model Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:05:05 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:05:05 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:05:05 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:05:05 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:05:05 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:05:05 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 15:05:05 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:05:05 --> Final output sent to browser
+DEBUG - 14-04-2015 15:05:05 --> Total execution time: 0.2518
+DEBUG - 14-04-2015 15:05:34 --> Config Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:05:34 --> URI Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Router Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Output Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Security Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Input Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:05:34 --> Language Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Model Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Model Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:05:34 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:05:34 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:05:34 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:05:34 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 14-04-2015 15:05:34 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:05:34 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:05:34 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 15:05:34 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:05:34 --> Final output sent to browser
+DEBUG - 14-04-2015 15:05:34 --> Total execution time: 0.1352
+DEBUG - 14-04-2015 15:07:46 --> Config Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:07:46 --> URI Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Router Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Output Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Security Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Input Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:07:46 --> Language Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Model Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Model Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:07:46 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:07:46 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:07:46 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:07:46 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:07:46 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:07:46 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 15:07:46 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:07:46 --> Final output sent to browser
+DEBUG - 14-04-2015 15:07:46 --> Total execution time: 0.1216
+DEBUG - 14-04-2015 15:08:25 --> Config Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:08:25 --> URI Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Router Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Output Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Security Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Input Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:08:25 --> Language Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:08:25 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:08:25 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:08:25 --> File loaded: application/views/paginas/menutodos.php
+DEBUG - 14-04-2015 15:08:25 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:08:25 --> Final output sent to browser
+DEBUG - 14-04-2015 15:08:25 --> Total execution time: 0.1579
+DEBUG - 14-04-2015 15:08:29 --> Config Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:08:29 --> URI Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Router Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Output Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Security Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Input Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:08:29 --> Language Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:08:29 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:08:29 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:08:29 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:08:29 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:08:29 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:08:29 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 15:08:29 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:08:29 --> Final output sent to browser
+DEBUG - 14-04-2015 15:08:29 --> Total execution time: 0.0793
+DEBUG - 14-04-2015 15:08:34 --> Config Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:08:34 --> URI Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Router Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Output Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Security Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Input Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:08:34 --> Language Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:08:34 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:08:34 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:08:34 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:08:34 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:08:34 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:08:34 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 15:08:34 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:08:34 --> Final output sent to browser
+DEBUG - 14-04-2015 15:08:34 --> Total execution time: 0.0466
+DEBUG - 14-04-2015 15:08:37 --> Config Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:08:37 --> URI Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Router Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Output Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Security Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Input Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:08:37 --> Language Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:08:37 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:08:37 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:08:37 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:08:37 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:08:37 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:08:37 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 15:08:37 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:08:37 --> Final output sent to browser
+DEBUG - 14-04-2015 15:08:37 --> Total execution time: 0.0423
+DEBUG - 14-04-2015 15:08:56 --> Config Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:08:56 --> URI Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Router Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Output Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Security Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Input Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:08:56 --> Language Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Model Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:08:56 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:08:56 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:08:56 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:08:56 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:08:56 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:08:56 --> File loaded: application/views/ac/creativo.php
+DEBUG - 14-04-2015 15:08:56 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:08:56 --> Final output sent to browser
+DEBUG - 14-04-2015 15:08:56 --> Total execution time: 0.0600
+DEBUG - 14-04-2015 15:09:35 --> Config Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:09:35 --> URI Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> Router Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> Output Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> Security Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> Input Class Initialized
+DEBUG - 14-04-2015 15:09:35 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:09:35 --> Language Class Initialized
+DEBUG - 14-04-2015 15:09:36 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:09:36 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:09:36 --> Model Class Initialized
+DEBUG - 14-04-2015 15:09:36 --> Model Class Initialized
+DEBUG - 14-04-2015 15:09:36 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:09:36 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:09:36 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:09:36 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:09:36 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:09:36 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:09:36 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:09:36 --> File loaded: application/views/ac/baile.php
+DEBUG - 14-04-2015 15:09:36 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:09:36 --> Final output sent to browser
+DEBUG - 14-04-2015 15:09:36 --> Total execution time: 0.4091
+DEBUG - 14-04-2015 15:09:48 --> Config Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:09:48 --> URI Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Router Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Output Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Security Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Input Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:09:48 --> Language Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Model Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Model Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:09:48 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:09:48 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:09:48 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:09:48 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:09:48 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:09:48 --> File loaded: application/views/ac/marimba.php
+DEBUG - 14-04-2015 15:09:48 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:09:48 --> Final output sent to browser
+DEBUG - 14-04-2015 15:09:48 --> Total execution time: 0.3082
+DEBUG - 14-04-2015 15:10:55 --> Config Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:10:55 --> URI Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Router Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Output Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Security Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Input Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:10:55 --> Language Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Model Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Model Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:10:55 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:10:55 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:10:55 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:10:55 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:10:55 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:10:55 --> File loaded: application/views/ac/marimba.php
+DEBUG - 14-04-2015 15:10:55 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:10:55 --> Final output sent to browser
+DEBUG - 14-04-2015 15:10:55 --> Total execution time: 0.1162
+DEBUG - 14-04-2015 15:11:18 --> Config Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:11:18 --> URI Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Router Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Output Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Security Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Input Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:11:18 --> Language Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Model Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Model Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:11:18 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:11:18 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:11:18 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:11:18 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:11:18 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:11:18 --> File loaded: application/views/ac/marimba.php
+DEBUG - 14-04-2015 15:11:18 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:11:18 --> Final output sent to browser
+DEBUG - 14-04-2015 15:11:18 --> Total execution time: 0.0941
+DEBUG - 14-04-2015 15:11:24 --> Config Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:11:24 --> URI Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Router Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Output Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Security Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Input Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:11:24 --> Language Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Model Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Model Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:11:24 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:11:24 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:11:24 --> File loaded: application/views/paginas/razones.php
+DEBUG - 14-04-2015 15:11:24 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:11:24 --> Final output sent to browser
+DEBUG - 14-04-2015 15:11:24 --> Total execution time: 0.0591
+DEBUG - 14-04-2015 15:11:54 --> Config Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:11:54 --> URI Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Router Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Output Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Security Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Input Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:11:54 --> Language Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Model Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Model Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:11:54 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:11:54 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:11:54 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:11:54 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:11:54 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:11:54 --> File loaded: application/views/ac/coros.php
+DEBUG - 14-04-2015 15:11:54 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:11:54 --> Final output sent to browser
+DEBUG - 14-04-2015 15:11:54 --> Total execution time: 0.1043
+DEBUG - 14-04-2015 15:12:21 --> Config Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:12:21 --> URI Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Router Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Output Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Security Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Input Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:12:21 --> Language Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:12:21 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:12:21 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:12:21 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:12:21 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:12:21 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:12:21 --> File loaded: application/views/ac/coros.php
+DEBUG - 14-04-2015 15:12:21 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:12:21 --> Final output sent to browser
+DEBUG - 14-04-2015 15:12:21 --> Total execution time: 0.0486
+DEBUG - 14-04-2015 15:12:29 --> Config Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:12:29 --> URI Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Router Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Output Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Security Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Input Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:12:29 --> Language Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:12:29 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:12:29 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:12:29 --> File loaded: application/views/paginas/menutodos.php
+DEBUG - 14-04-2015 15:12:29 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:12:29 --> Final output sent to browser
+DEBUG - 14-04-2015 15:12:29 --> Total execution time: 0.0317
+DEBUG - 14-04-2015 15:12:32 --> Config Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:12:32 --> URI Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Router Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Output Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Security Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Input Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:12:32 --> Language Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:12:32 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:12:32 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:12:32 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:12:32 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:12:32 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:12:32 --> File loaded: application/views/ac/marimba.php
+DEBUG - 14-04-2015 15:12:32 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:12:32 --> Final output sent to browser
+DEBUG - 14-04-2015 15:12:32 --> Total execution time: 0.0514
+DEBUG - 14-04-2015 15:12:35 --> Config Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:12:35 --> URI Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Router Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Output Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Security Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Input Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:12:35 --> Language Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Model Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:12:35 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:12:35 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:12:35 --> File loaded: application/views/paginas/razones.php
+DEBUG - 14-04-2015 15:12:35 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:12:35 --> Final output sent to browser
+DEBUG - 14-04-2015 15:12:35 --> Total execution time: 0.0332
+DEBUG - 14-04-2015 15:13:59 --> Config Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:13:59 --> URI Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Router Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Output Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Security Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Input Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:13:59 --> Language Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Model Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Model Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:13:59 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:13:59 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:13:59 --> File loaded: application/views/paginas/razones.php
+DEBUG - 14-04-2015 15:13:59 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:13:59 --> Final output sent to browser
+DEBUG - 14-04-2015 15:13:59 --> Total execution time: 0.0291
+DEBUG - 14-04-2015 15:14:08 --> Config Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:14:08 --> URI Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Router Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Output Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Security Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Input Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:14:08 --> Language Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:14:08 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:14:08 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:14:08 --> File loaded: application/views/paginas/razones.php
+DEBUG - 14-04-2015 15:14:08 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:14:08 --> Final output sent to browser
+DEBUG - 14-04-2015 15:14:08 --> Total execution time: 0.0446
+DEBUG - 14-04-2015 15:14:33 --> Config Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:14:33 --> URI Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Router Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Output Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Security Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Input Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:14:33 --> Language Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:14:33 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:14:33 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:14:33 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:14:33 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:14:33 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:14:33 --> File loaded: application/views/ac/coros.php
+DEBUG - 14-04-2015 15:14:33 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:14:33 --> Final output sent to browser
+DEBUG - 14-04-2015 15:14:33 --> Total execution time: 0.0466
+DEBUG - 14-04-2015 15:14:47 --> Config Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:14:47 --> URI Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Router Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Output Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Security Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Input Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:14:47 --> Language Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:14:47 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:14:47 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:14:47 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:14:47 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:14:47 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:14:47 --> File loaded: application/views/ac/baile.php
+DEBUG - 14-04-2015 15:14:47 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:14:47 --> Final output sent to browser
+DEBUG - 14-04-2015 15:14:47 --> Total execution time: 0.0738
+DEBUG - 14-04-2015 15:14:54 --> Config Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:14:54 --> URI Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Router Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Output Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Security Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Input Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:14:54 --> Language Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Model Class Initialized
+DEBUG - 14-04-2015 15:14:54 --> Controller Class Initialized
+ERROR - 14-04-2015 15:14:54 --> 404 Page Not Found --> concurso/declamacionsubmit
+DEBUG - 14-04-2015 15:15:02 --> Config Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:15:02 --> URI Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Router Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> No URI present. Default controller set.
+DEBUG - 14-04-2015 15:15:02 --> Output Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Security Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Input Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:15:02 --> Language Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Model Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Model Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:15:02 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:15:02 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:15:02 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 14-04-2015 15:15:02 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:15:02 --> Final output sent to browser
+DEBUG - 14-04-2015 15:15:02 --> Total execution time: 0.0317
+DEBUG - 14-04-2015 15:15:58 --> Config Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:15:58 --> URI Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Router Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> No URI present. Default controller set.
+DEBUG - 14-04-2015 15:15:58 --> Output Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Security Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Input Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:15:58 --> Language Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Model Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Model Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:15:58 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:15:58 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:15:58 --> File loaded: application/views/paginas/inicio.php
+DEBUG - 14-04-2015 15:15:58 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:15:58 --> Final output sent to browser
+DEBUG - 14-04-2015 15:15:58 --> Total execution time: 0.0605
+DEBUG - 14-04-2015 15:19:16 --> Config Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:19:16 --> URI Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Router Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Output Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Security Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Input Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:19:16 --> Language Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Model Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Model Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:19:16 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:19:16 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:19:16 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:19:16 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:19:16 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:19:16 --> File loaded: application/views/ac/declamacion.php
+DEBUG - 14-04-2015 15:19:16 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:19:16 --> Final output sent to browser
+DEBUG - 14-04-2015 15:19:16 --> Total execution time: 0.0683
+DEBUG - 14-04-2015 15:20:08 --> Config Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:20:08 --> URI Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Router Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Output Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Security Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Input Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:20:08 --> Language Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Model Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Model Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:20:08 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:20:08 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:20:08 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:20:08 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:20:08 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:20:08 --> File loaded: application/views/ac/declamacion.php
+DEBUG - 14-04-2015 15:20:08 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:20:08 --> Final output sent to browser
+DEBUG - 14-04-2015 15:20:08 --> Total execution time: 0.0402
+DEBUG - 14-04-2015 15:21:01 --> Config Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Hooks Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Utf8 Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> UTF-8 Support Enabled
+DEBUG - 14-04-2015 15:21:01 --> URI Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Router Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Output Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Security Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Input Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Global POST and COOKIE data sanitized
+DEBUG - 14-04-2015 15:21:01 --> Language Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Loader Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Database Driver Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Model Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Model Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Controller Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Helper loaded: form_helper
+DEBUG - 14-04-2015 15:21:01 --> Helper loaded: url_helper
+DEBUG - 14-04-2015 15:21:01 --> Form Validation Class Initialized
+DEBUG - 14-04-2015 15:21:01 --> Helper loaded: date_helper
+DEBUG - 14-04-2015 15:21:01 --> File loaded: application/views/comun/header.php
+DEBUG - 14-04-2015 15:21:01 --> File loaded: application/views/comun/nav.php
+DEBUG - 14-04-2015 15:21:01 --> File loaded: application/views/ac/declamacion.php
+DEBUG - 14-04-2015 15:21:01 --> File loaded: application/views/comun/footer.php
+DEBUG - 14-04-2015 15:21:01 --> Final output sent to browser
+DEBUG - 14-04-2015 15:21:01 --> Total execution time: 0.0523

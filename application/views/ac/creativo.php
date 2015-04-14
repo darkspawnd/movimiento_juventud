@@ -1,9 +1,9 @@
 <!-- Formulario de Certamen Creativo-->
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/bootstrap.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/formstyle.css') ?>">
     <body>
     <div class="cover top no-padding">
-        <img class="cover" src="http://localhost:8888/movimiento_juventud/assets/images/arteycultura.jpg">
+        <img class="cover" src="<? echo base_url('assets/images/arteycultura.jpg') ?>">
     </div>
     <div class="wrapper">
         <h1>Certamen Creativo</h1>
@@ -23,7 +23,7 @@
         <p> <b>Pintura</b> - 29 de Abril</p>
         <hr />
     </div>
-    <form method="post" accept-charset="utf-8" action="http://localhost:8888/movimiento_juventud/index.php/concurso/creativosubmit"/>
+    <form method="post" accept-charset="utf-8" action="<? echo site_url('concurso/creativosubmit') ?>"/>
     <div class="form-wrapper crea">
         
         <!-- Form Validation Errors -->

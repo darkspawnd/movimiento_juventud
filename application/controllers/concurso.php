@@ -19,7 +19,6 @@ class Concurso extends CI_Controller {
 
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
-		$this->load->helper('date');
 		$ahora=unix_to_human(time());
 
 		if ($this->form_validation->run('creativo') == false)
@@ -135,7 +134,6 @@ class Concurso extends CI_Controller {
 	{
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
-		$this->load->helper('date');
 		$ahora=unix_to_human(time());
 	
 		if ($this->form_validation->run('baile') == false)
@@ -198,7 +196,6 @@ class Concurso extends CI_Controller {
 	{
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
-		$this->load->helper('date');
 		$ahora=unix_to_human(time());
 		
 		if ($this->form_validation->run('coros') == false)
@@ -259,7 +256,6 @@ class Concurso extends CI_Controller {
 	{
 		$this->load->helper(array('form', 'url'));
 		$this->load->library('form_validation');
-		$this->load->helper('date');
 		$ahora=unix_to_human(time());
 		
 		if ($this->form_validation->run('marimba') == false)
@@ -308,6 +304,29 @@ class Concurso extends CI_Controller {
 			$this->load->view('comun/nav');
 			$this->load->view('paginas/formsuccess');
 			$this->load->view('comun/footer');
+		}
+	}
+
+
+
+
+	function declamacionSubmit()
+	{
+		$this->load->helper(array('form', 'url'));
+		$this->load->library('form_validation');
+		$ahora=unix_to_human(time());
+		
+		if ($this->form_validation->run('declamacion') == false)
+		{	
+		// Hubo error en la validacion
+		$this->load->view('comun/header');
+		$this->load->view('comun/nav');
+		$this->load->view('ac/declamacion');
+		$this->load->view('comun/footer');
+		}
+		else
+		{
+
 		}
 	}
 

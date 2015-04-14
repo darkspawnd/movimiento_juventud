@@ -78,6 +78,6 @@ function logoHome() {
 
 function playMusic() {
     /*var song = new Audio();
-    song.src = "http://localhost:8888/movimiento_juventud/assets/music/brother.mp3";
+    song.src = "<? echo base_url('assets/music/brother.mp3') ?>";
     song.play();*/
 }

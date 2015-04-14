@@ -1,8 +1,8 @@
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/bootstrap.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/formstyle.css') ?>">
 	<body> 
     <div class="cover top no-padding">
-        <img class="cover" src="http://localhost:8888/movimiento_juventud/assets/images/arteycultura.jpg">
+        <img class="cover" src="<? echo base_url('assets/images/arteycultura.jpg') ?>">
     </div>
     <div class="wrapper">
         <h1> Baile </h1>
@@ -21,7 +21,7 @@
         <p> <b>Fecha</b> - 20 de Mayo</p>
         <hr />
     </div> 
-    <form method="post" accept-charset="utf-8" action="http://localhost:8888/movimiento_juventud/index.php/concurso/bailesubmit"/>
+    <form method="post" accept-charset="utf-8" action="<? echo site_url('concurso/bailesubmit') ?>"/>
     <div class="form-wrapper">
         <?php echo validation_errors('<div class="error-box"><div class="error-container">-', '</div></div>'); ?>
         <script type="application/javascript">

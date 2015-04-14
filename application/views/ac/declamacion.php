@@ -1,9 +1,9 @@
 <!-- Formulario Certamen Creativo o Dibujo -->
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/bootstrap.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/formstyle.css') ?>">
 	<body>
     <div class="cover top no-padding">
-        <img class="cover" src="http://localhost:8888/movimiento_juventud/assets/images/arteycultura.jpg">
+        <img class="cover" src="<? echo base_url('assets/images/arteycultura.jpg') ?>">
     </div>
     <div class="wrapper">
         <h1> Certamen de Declamación </h1>
@@ -20,14 +20,17 @@
         <p> <b>Fecha</b> - 27 de Abril</p>
         <hr />
     </div> 
+    <form method="post" accept-charset="utf-8" action="<? echo site_url('concurso/declamacionsubmit') ?>"/>
     <div class="form-wrapper decla">
-        <div class="error-box">
-            <div class="error-container">
-                <p class="warning"><label class="strong big">Advertencias: </label></p>
-                <?php echo validation_errors(); ?>
-            </div>
-        </div>
-        <h2>Inscripción</h2>
+        <!-- Form Validation Errors -->
+        <?php echo validation_errors('<div class="error-box"><div class="error-container">-', '</div></div>'); ?>
+        <script type="application/javascript">
+            if($(".error-box").length > 0){
+                var boxes = document.getElementsByClassName("error-box");
+                boxes[boxes.length - 1].style.paddingBottom = "20px";
+            }
+        </script>
+        <!-- Form Validation Errors -->        <h2>Inscripción</h2>
         <h3> Datos del establecimiento: </h3>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
@@ -76,3 +79,6 @@
             <input type="submit" class="form-control send-art btn_bottom" />
         </div>
     </div>
+</div>
+</form>
+</body>

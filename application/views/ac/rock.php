@@ -1,9 +1,9 @@
 
-	<link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://localhost:8888/movimiento_juventud/assets/css/formstyle.css">
+	<link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/bootstrap.css') ?>">
+    <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/formstyle.css') ?>">
 	<body>
     <div class="cover top no-padding">
-    <img class="cover" src="http://localhost:8888/movimiento_juventud/assets/images/arteycultura.jpg">
+    <img class="cover" src="<? echo base_url('assets/images/arteycultura.jpg') ?>">
     </div>
     <div class="wrapper">
         <h1> Grupos de Rock </h1>
@@ -23,7 +23,7 @@
         <hr />
     </div> 
     <div class="form-wrapper rock">
-		<h2>Grupos de Rock</h2><a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/datos" class="data-purpose">¿Por qué necesitamos estos datos?</a>
+		<h2>Grupos de Rock</h2><a href="<? echo site_url('iniciar/datos') ?>" class="data-purpose">¿Por qué necesitamos estos datos?</a>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
         </div>

@@ -1,5 +1,5 @@
 body {
-    background: url("http://localhost:8888/movimiento_juventud/assets/images/stardust.png");
+    background: url("<? echo base_url('assets/images/stardust.png') ?>");
     background-repeat:  repeat;
     width: 100vw;
 }
@@ -242,6 +242,11 @@ input + label {
 .error404 {
     margin-top: 20vh;
     padding: 5vw;
+}
+
+.reasons {
+    position: relative;
+    margin-top: 20vh;
 }
 
 @media screen and (min-width: 300px) and (max-width: 800px) {
