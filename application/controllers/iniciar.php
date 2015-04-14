@@ -17,6 +17,14 @@ class Iniciar extends CI_Controller {
 		$this->load->view('paginas/menutodos');
 		$this->load->view('comun/footer');	
 	}
+    
+    public function datos()
+	{
+		$this->load->view('comun/header');
+		$this->load->view('comun/nav');
+		$this->load->view('paginas/razones');
+		$this->load->view('comun/footer');	
+	}
 
 }
 ?>

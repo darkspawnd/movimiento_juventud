@@ -36,7 +36,7 @@
         <hr/>
     </div> 
     <div class="form-wrapper inter">
-		<h1>Inscripción</h1>
+		<h2>Inscripción</h2><a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/datos" class="data-purpose">¿Por qué necesitamos estos datos?</a>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
         </div>

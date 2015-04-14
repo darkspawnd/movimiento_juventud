@@ -164,8 +164,6 @@
             </div>
             <div class="contest-name cnts">Diseño</div>
         </div>
-        
-        
     </div>
     </body>
 

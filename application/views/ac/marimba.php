@@ -17,7 +17,7 @@
         <hr />
     </div>    
     <div class="form-wrapper mar">
-		<h1>Marimba</h1>
+		<h2>Marimba</h2><a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/datos" class="data-purpose">¿Por qué necesitamos estos datos?</a>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
         </div>
