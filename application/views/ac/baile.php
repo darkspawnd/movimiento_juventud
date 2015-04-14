@@ -22,9 +22,14 @@
         <hr />
     </div> 
     <form method="post" accept-charset="utf-8" action="http://localhost:8888/movimiento_juventud/index.php/concurso/bailesubmit"/>
-    <?php echo validation_errors(); ?>
     <div class="form-wrapper">
-		<h2>Inscripción</h2><a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/datos" class="data-purpose">¿Por qué necesitamos estos datos?</a>
+        <div class="error-box">
+            <div class="error-container">
+                <p class="warning"><label class="strong big">Advertencias: </label></p>
+                <?php echo validation_errors(); ?>
+            </div>
+        </div>
+		<h2>Inscripción</h2>
         <h3> Datos del establecimiento: </h3>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>

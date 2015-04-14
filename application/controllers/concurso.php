@@ -147,7 +147,7 @@ class Concurso extends CI_Controller {
 				);
 			$id_equipo = $this->Insertar->newEquipo($data_equipo);
 
-// Mostromos la vista de que se ingreso correctamente
+// Mostramos la vista de que se ingreso correctamente
 			$this->load->view('comun/header');
 			$this->load->view('comun/nav');
 			// falta vista de Ingreso exitoso

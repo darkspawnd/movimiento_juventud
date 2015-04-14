@@ -17,7 +17,13 @@
         <hr />
     </div>    
     <div class="form-wrapper mar">
-		<h2>Marimba</h2><a href="http://localhost:8888/movimiento_juventud/index.php/iniciar/datos" class="data-purpose">¿Por qué necesitamos estos datos?</a>
+        <div class="error-box" style="display: none;">
+            <div class="error-container">
+                <p class="warning"><label class="strong big">Advertencias: </label></p>
+                <?php echo validation_errors(); ?>
+            </div>
+        </div>
+		<h1>Marimba</h1>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Nombre Del Establecimiento" name="nombre_establecimiento"/>
         </div>
