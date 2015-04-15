@@ -72,7 +72,7 @@ function footerPos() {
 
 function logoHome() {
     $(".logo-header").click(function () {
-        window.location = "http://localhost:8888/movimiento_juventud"
+        window.location = "http://www.movimientojuventud.com.gt"
     });
 }
 

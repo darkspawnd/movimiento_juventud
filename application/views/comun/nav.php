@@ -12,7 +12,7 @@
         </div>
         <script type="text/javascript"> 
             var url = document.URL;
-            if(url != "<? echo site_url() ?>"){
+            if(url != "<? echo site_url() ?>" && url != "<?php echo base_url() ?>"){
                 $(".formC").each(function () {
                     $(this).hide();
                 });
