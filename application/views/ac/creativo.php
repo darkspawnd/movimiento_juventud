@@ -1,4 +1,4 @@
-<!-- Formulario de Certamen Creativo-->
+<!-- Formulario de Certámen Creativo-->
     <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/bootstrap.css') ?>">
     <link rel="stylesheet" type="text/css" href="<? echo base_url('assets/css/formstyle.css') ?>">
     <body>
@@ -6,7 +6,7 @@
         <img class="cover" src="<? echo base_url('assets/images/arteycultura.jpg') ?>">
     </div>
     <div class="wrapper">
-        <h1>Certamen Creativo</h1>
+        <h1>Certámen Creativo</h1>
         <hr/>
         <h3> Bases del Concurso </h3>
         <p> a)  El concursante deberá presentarse en la fecha programada por la Comisión de Arte y Cultura con sus materiales de trabajo. </p>
@@ -16,7 +16,7 @@
         <p> e)  En el momento del concurso se prohíbe el ingreso de personas ajenas al mismo, los acompañantes de los alumnos participantes deberán esperar en el área de cafetería del Colegio Don Bosco.</p>
         <p> f)  Un jurado calificador idóneo calificará los trabajos de los participantes en días posteriores a la realización del mismo.</p>
         <p> g)  Las obras generadas durante estos concursos serán exhibidas en la Exposición de Arte levantada durante la Semana Oficial del Movimiento Juventud.</p>
-        <p> h)  En la Fase de Eliminatorias cada institución educativa puede participar con un máximo de cinco (5) alumnos por cada rama del certamen creativo.</p>
+        <p> h)  En la Fase de Eliminatorias cada institución educativa puede participar con un máximo de cinco (5) alumnos por cada rama del Certámen creativo.</p>
         <hr />
         <p> <b>Caricatura</b> - 27 de Abril</p>
         <p> <b>Retratos</b> - 28 de Abril</p>
@@ -66,7 +66,7 @@
             <input type="text" class="form-control fecha" placeholder="Año" name="anio"/>
         </div>
         <div class="form-row">
-            <input type="text" class="form-control" placeholder="Telefono/Celular Participante" name="telefono_participante"/>
+            <input type="text" class="form-control" placeholder="Teléfono/Celular Participante" name="telefono_participante"/>
         </div>
         <div class="form-row">
             <input type="text" class="form-control" placeholder="Email Del Participante" name="mail_participante"/>

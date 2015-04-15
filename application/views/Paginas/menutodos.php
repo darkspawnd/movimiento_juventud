@@ -8,7 +8,7 @@
             <div class="contest-thumb cnts">
                 <img src="<? echo base_url('assets/images/arte_thumb.png') ?>" />
             </div>
-            <div class="contest-name cnts">Certamen Creativo</div>
+            <div class="contest-name cnts">Certámen Creativo</div>
         </div>
         
         <div class="contest-container" data-contest="coros">

@@ -38,6 +38,7 @@ class Concurso extends CI_Controller {
 			   'direccion_establecimiento' => $_POST['direccion_establecimiento'] ,
 			   'telefono_establecimiento' => $_POST['telefono_establecimiento']
 			);
+			$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
 
 			$data_participante = array(
 			   'primer_nombre' => $_POST['primer_nombre'],
@@ -49,6 +50,8 @@ class Concurso extends CI_Controller {
 			   'mail_participante' => $_POST['mail_participante'],
 			   'genero'=>$_POST['genero']
 			);
+			$id_participante = $this->Insertar->newParticipante($data_participante);
+
 
 			$data_encargado = array(
 				'nombre_encargado' => $_POST['nombre_encargado'],
@@ -92,10 +95,7 @@ class Concurso extends CI_Controller {
 					$id_concurso=10;
 				}
 			}
-
-		//regresa el id de los datos que se mandan a insertar con la misma linea de codigo
-			$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
-			$id_participante = $this->Insertar->newParticipante($data_participante);
+	
 		// Asigna al participante al establecimiento
 			$data_asignacion_p_e = array(
 				'id_participante' => $id_participante,
@@ -228,7 +228,7 @@ class Concurso extends CI_Controller {
 				'nombre_equipo' => "Coro de ".$_POST['nombre_establecimiento'],
 				'id_establecimiento' => $id_establecimiento,
 				'id_encargado' => $id_encargado,
-				'id_concurso' => $_POST['id_concurso'],
+				'id_concurso' => 14,
 				'numero_integrantes' => $_POST['numero_integrantes'],
 				);
 			$id_equipo = $this->Insertar->newEquipo($data_equipo);
@@ -287,7 +287,7 @@ class Concurso extends CI_Controller {
 				'nombre_equipo' => $_POST['nombre_equipo'],
 				'id_establecimiento' => $id_establecimiento,
 				'id_encargado' => $id_encargado,
-				'id_concurso' => $_POST['id_concurso'],
+				'id_concurso' => 30,
 				'numero_integrantes' => $_POST['numero_integrantes'],
 				);
 			$id_equipo = $this->Insertar->newEquipo($data_equipo);
@@ -326,9 +326,272 @@ class Concurso extends CI_Controller {
 		}
 		else
 		{
+			$data_establecimiento = array(
+			   'nombre_establecimiento' => $_POST['nombre_establecimiento']	,
+			   'direccion_establecimiento' => $_POST['direccion_establecimiento'] ,
+			   'telefono_establecimiento' => $_POST['telefono_establecimiento']
+			);
+			$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
 
+			$data_participante = array(
+			   'primer_nombre' => $_POST['primer_nombre'],
+			   'segundo_nombre' => $_POST['segundo_nombre'],
+			   'primer_apellido'=> $_POST['primer_apellido'],
+			   'segundo_apellido'=> $_POST['segundo_apellido'],
+			   'fecha_nacimiento'=> $_POST['anio'].'/'.$_POST['mes'].'/'.$_POST['dia'],
+			   'telefono_participante' => $_POST['telefono_participante'],
+			   'mail_participante' => $_POST['mail_participante'],
+			   'genero'=>$_POST['genero']
+			);
+			$id_participante = $this->Insertar->newParticipante($data_participante);
+
+			$data_encargado = array(
+				'nombre_encargado' => $_POST['nombre_encargado'],
+				'telefono_encargado' => $_POST['telefono_encargado'],
+				'mail_encargado' => $_POST['mail_encargado'],
+				'cargo' => $_POST['cargo']
+				);
+			$id_encargado = $this->Insertar->newEncargado($data_encargado);
+
+			$data_asignacion_p_e = array(
+				'id_participante' => $id_participante,
+				'id_establecimiento' => $id_establecimiento 
+				);
+			$id_asignar_establecimiento = $this->Insertar->newAsignacion_P_E($data_asignacion_p_e);
+
+// se asignara al concurso
+			$data_asignacion_individual= array(
+				'id_asignar_establecimiento' => $id_asignar_establecimiento,
+				'id_encargado' => $id_encargado,
+				'id_concurso' => $_POST['id_concurso']
+				);
+			$id_asignacion_individual = $this->Insertar->newAsignacion_Individual($data_asignacion_individual);
+// Se Ingresa el formulario con la fecha 
+			$data_formulario = array(
+				'id_asignacion_individual' => $id_asignacion_individual,
+				'id_equipo' => null,
+				'id_asignar_equipo' => null,
+				'fecha_inclucion' => $ahora
+				);
+			$id_formulario = $this->Insertar->newFormulario($data_formulario);
+			
 		}
 	}
+
+	function rockSubmit()
+	{
+		$this->load->helper(array('form', 'url'));
+		$this->load->library('form_validation');
+		$ahora=unix_to_human(time());
+		
+		if ($this->form_validation->run('rock') == false)
+		{	
+		$this->load->view('comun/header');
+		$this->load->view('comun/nav');
+		$this->load->view('ac/rock');
+		$this->load->view('comun/footer');
+		}
+		else
+		{
+			$data_establecimiento = array(
+			   'nombre_establecimiento' => $_POST['nombre_establecimiento']	,
+			   'direccion_establecimiento' => $_POST['direccion_establecimiento'] ,
+			   'telefono_establecimiento' => $_POST['telefono_establecimiento']
+			);
+			$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
+			
+			$data_encargado = array(
+				'nombre_encargado' => $_POST['nombre_encargado'],
+				'telefono_encargado' => $_POST['telefono_encargado'],
+				'mail_encargado' => $_POST['mail_encargado'],
+				);
+			$id_encargado = $this->Insertar->newEncargado($data_encargado);
+			
+			$data_equipo = array(
+				'nombre_equipo' => $_POST['nombre_equipo'],
+				'id_establecimiento' => $id_establecimiento,
+				'id_encargado' => $id_encargado,
+				'id_concurso' => 17,
+				'numero_integrantes' => $_POST['numero_integrantes'],
+				);
+			$id_equipo = $this->Insertar->newEquipo($data_equipo);
+
+			$data_formulario = array(
+				'id_asignacion_individual' => null,
+				'id_equipo' => $id_equipo,
+				'id_asignar_equipo' => null,
+				'fecha_inclucion' => $ahora
+				);
+			$id_formulario = $this->Insertar->newFormulario($data_formulario);
+
+// Mostramos la vista de que se ingreso correctamente
+			$this->load->view('comun/header');
+			$this->load->view('comun/nav');
+			$this->load->view('paginas/formsuccess');
+			$this->load->view('comun/footer');
+		}
+	}
+
+
+
+
+
+	function instrumentosSubmit()
+	{
+
+		$this->load->helper(array('form', 'url'));
+		$this->load->library('form_validation');
+		$ahora=unix_to_human(time());
+
+		if ($this->form_validation->run('instrumentos') == false)
+		{	
+	// Hubo error en la validacion
+		$this->load->view('comun/header');
+		$this->load->view('comun/nav');
+		$this->load->view('ac/instrumentos');
+		$this->load->view('comun/footer');
+
+		}
+		else
+		{
+			// array campos de la base de datos y las variables del POST
+			$data_establecimiento = array(
+			   'nombre_establecimiento' => $_POST['nombre_establecimiento']	,
+			   'direccion_establecimiento' => $_POST['direccion_establecimiento'] ,
+			   'telefono_establecimiento' => $_POST['telefono_establecimiento']
+			);
+			$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
+
+			$data_participante = array(
+			   'primer_nombre' => $_POST['primer_nombre'],
+			   'segundo_nombre' => $_POST['segundo_nombre'],
+			   'primer_apellido'=> $_POST['primer_apellido'],
+			   'segundo_apellido'=> $_POST['segundo_apellido'],
+			   'fecha_nacimiento'=> $_POST['anio'].'/'.$_POST['mes'].'/'.$_POST['dia'],
+			   'telefono_participante' => $_POST['telefono_participante'],
+			   'mail_participante' => $_POST['mail_participante'],
+			   'genero'=>$_POST['genero']
+			);
+			$id_participante = $this->Insertar->newParticipante($data_participante);
+
+
+			$data_encargado = array(
+				'nombre_encargado' => $_POST['nombre_encargado'],
+				'telefono_encargado' => $_POST['telefono_encargado'],
+				'mail_encargado' => $_POST['mail_encargado'],
+				'cargo' => $_POST['cargo']
+				);
+			$id_encargado = $this->Insertar->newEncargado($data_encargado);
+	
+		// Asigna al participante al establecimiento
+			$data_asignacion_p_e = array(
+				'id_participante' => $id_participante,
+				'id_establecimiento' => $id_establecimiento 
+				);
+			$id_asignar_establecimiento = $this->Insertar->newAsignacion_P_E($data_asignacion_p_e);
+// se asignara al concurso
+			$data_asignacion_individual= array(
+				'id_asignar_establecimiento' => $id_asignar_establecimiento,
+				'id_encargado' => $id_encargado,
+				'id_concurso' => $_POST['id_concurso']
+				);
+			$id_asignacion_individual = $this->Insertar->newAsignacion_Individual($data_asignacion_individual);
+// Se Ingresa el formulario con la fecha 
+			$data_formulario = array(
+				'id_asignacion_individual' => $id_asignacion_individual,
+				'id_equipo' => null,
+				'id_asignar_equipo' => null,
+				'fecha_inclucion' => $ahora
+				);
+			$id_formulario = $this->Insertar->newFormulario($data_formulario);
+
+// Mostromos la vista de que se ingreso correctamente
+			$this->load->view('comun/header');
+			$this->load->view('comun/nav');
+			$this->load->view('paginas/formsuccess');
+			$this->load->view('comun/footer');
+		}
+	}
+
+function interpretacionSubmit()
+	{
+
+		$this->load->helper(array('form', 'url'));
+		$this->load->library('form_validation');
+		$ahora=unix_to_human(time());
+
+		if ($this->form_validation->run('interpretacion') == false)
+		{	
+	// Hubo error en la validacion
+		$this->load->view('comun/header');
+		$this->load->view('comun/nav');
+		$this->load->view('ac/interpretacion');
+		$this->load->view('comun/footer');
+
+		}
+		else
+		{
+			// array campos de la base de datos y las variables del POST
+			$data_establecimiento = array(
+			   'nombre_establecimiento' => $_POST['nombre_establecimiento']	,
+			   'direccion_establecimiento' => $_POST['direccion_establecimiento'] ,
+			   'telefono_establecimiento' => $_POST['telefono_establecimiento']
+			);
+			$id_establecimiento = $this->Insertar->newEstablecimiento($data_establecimiento);
+
+			$data_participante = array(
+			   'primer_nombre' => $_POST['primer_nombre'],
+			   'segundo_nombre' => $_POST['segundo_nombre'],
+			   'primer_apellido'=> $_POST['primer_apellido'],
+			   'segundo_apellido'=> $_POST['segundo_apellido'],
+			   'fecha_nacimiento'=> $_POST['anio'].'/'.$_POST['mes'].'/'.$_POST['dia'],
+			   'telefono_participante' => $_POST['telefono_participante'],
+			   'mail_participante' => $_POST['mail_participante'],
+			   'genero'=>$_POST['genero']
+			);
+			$id_participante = $this->Insertar->newParticipante($data_participante);
+
+
+			$data_encargado = array(
+				'nombre_encargado' => $_POST['nombre_encargado'],
+				'telefono_encargado' => $_POST['telefono_encargado'],
+				'mail_encargado' => $_POST['mail_encargado'],
+				'cargo' => $_POST['cargo']
+				);
+			$id_encargado = $this->Insertar->newEncargado($data_encargado);
+	
+		// Asigna al participante al establecimiento
+			$data_asignacion_p_e = array(
+				'id_participante' => $id_participante,
+				'id_establecimiento' => $id_establecimiento 
+				);
+			$id_asignar_establecimiento = $this->Insertar->newAsignacion_P_E($data_asignacion_p_e);
+// se asignara al concurso
+			$data_asignacion_individual= array(
+				'id_asignar_establecimiento' => $id_asignar_establecimiento,
+				'id_encargado' => $id_encargado,
+				'id_concurso' => $_POST['id_concurso']
+				);
+			$id_asignacion_individual = $this->Insertar->newAsignacion_Individual($data_asignacion_individual);
+// Se Ingresa el formulario con la fecha 
+			$data_formulario = array(
+				'id_asignacion_individual' => $id_asignacion_individual,
+				'id_equipo' => null,
+				'id_asignar_equipo' => null,
+				'fecha_inclucion' => $ahora
+				);
+			$id_formulario = $this->Insertar->newFormulario($data_formulario);
+
+// Mostromos la vista de que se ingreso correctamente
+			$this->load->view('comun/header');
+			$this->load->view('comun/nav');
+			$this->load->view('paginas/formsuccess');
+			$this->load->view('comun/footer');
+		}
+	}
+
+
+
 
 }
 ?>
